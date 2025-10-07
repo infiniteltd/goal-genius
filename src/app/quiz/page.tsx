@@ -79,7 +79,14 @@ function QuizContent() {
       setShowAnswer(false);
       setTimeLeft(20);
     } else {
-      window.location.href = `/results?score=${score}&total=${questions.length}`;
+      // ✅ Corrected: Pass correct category and difficulty
+      const params = new URLSearchParams({
+        score: String(score),
+        total: String(questions.length),
+        category: category || "",
+        difficulty: difficulty || "",
+      });
+      window.location.href = `/results?${params.toString()}`;
     }
   };
 

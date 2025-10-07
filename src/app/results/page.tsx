@@ -10,17 +10,18 @@ function ResultsContent() {
   const total = Number(search.get("total") || 0);
   const q = search.get("q");
   const level = search.get("level");
+  const category = search.get("category") || "";
+  const difficulty = search.get("difficulty") || "";
 
   const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
 
   function retry() {
-    if (q && level) {
-      router.push(`/quiz?q=${q}&level=${level}`);
-    } else if (q) {
-      router.push(`/quiz?q=${q}`);
-    } else {
-      router.push("/");
-    }
+    // ✅ Retry same category & difficulty
+    const params = new URLSearchParams({
+      category,
+      difficulty,
+    });
+    router.push(`/quiz?${params.toString()}`);
   }
 
   async function shareResults() {
