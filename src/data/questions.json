@@ -1,0 +1,4010 @@
+{
+  "premier_league_easy": [
+    {
+      "id": "pl_easy_01",
+      "question": "Which club completed an unbeaten Premier League season in 2003–04, earning the nickname 'The Invincibles'?",
+      "options": [
+        "Arsenal",
+        "Manchester United",
+        "Chelsea",
+        "Liverpool"
+      ],
+      "answer": "Arsenal"
+    },
+    {
+      "id": "pl_easy_02",
+      "question": "Which stadium is the home ground of Manchester United?",
+      "options": [
+        "Old Trafford",
+        "Etihad Stadium",
+        "Stamford Bridge",
+        "Anfield"
+      ],
+      "answer": "Old Trafford"
+    },
+    {
+      "id": "pl_easy_03",
+      "question": "Which club plays its home matches at Stamford Bridge?",
+      "options": [
+        "Chelsea",
+        "Arsenal",
+        "Tottenham Hotspur",
+        "Crystal Palace"
+      ],
+      "answer": "Chelsea"
+    },
+    {
+      "id": "pl_easy_04",
+      "question": "Which club famously won the Premier League title against the odds in the 2015–2016 season?",
+      "options": [
+        "Leicester City",
+        "Aston Villa",
+        "Everton",
+        "West Ham United"
+      ],
+      "answer": "Leicester City"
+    },
+    {
+      "id": "pl_easy_05",
+      "question": "Who is the Premier League's all-time top scorer?",
+      "options": [
+        "Alan Shearer",
+        "Wayne Rooney",
+        "Thierry Henry",
+        "Sergio Agüero"
+      ],
+      "answer": "Alan Shearer"
+    },
+    {
+      "id": "pl_easy_06",
+      "question": "Which team is nicknamed 'The Red Devils'?",
+      "options": [
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Arsenal"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "pl_easy_07",
+      "question": "Which club plays home matches at Anfield?",
+      "options": [
+        "Liverpool",
+        "Everton",
+        "Leeds United",
+        "Newcastle United"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "pl_easy_08",
+      "question": "Which manager was in charge of Manchester United during the club's dominance in the 1990s and 2000s?",
+      "options": [
+        "Sir Alex Ferguson",
+        "Jose Mourinho",
+        "Arsène Wenger",
+        "Pep Guardiola"
+      ],
+      "answer": "Sir Alex Ferguson"
+    },
+    {
+      "id": "pl_easy_09",
+      "question": "Which player scored the dramatic title-winning goal for Manchester City in 2012 (stoppage-time)?",
+      "options": [
+        "Sergio Agüero",
+        "Edin Džeko",
+        "Carlos Tevez",
+        "Yaya Touré"
+      ],
+      "answer": "Sergio Agüero"
+    },
+    {
+      "id": "pl_easy_10",
+      "question": "Which Premier League club is nicknamed 'The Gunners'?",
+      "options": [
+        "Arsenal",
+        "Tottenham Hotspur",
+        "Crystal Palace",
+        "Bournemouth"
+      ],
+      "answer": "Arsenal"
+    },
+    {
+      "id": "pl_easy_11",
+      "question": "Which club moved to the Etihad Stadium as its home ground?",
+      "options": [
+        "Manchester City",
+        "Manchester United",
+        "Leicester City",
+        "Everton"
+      ],
+      "answer": "Manchester City"
+    },
+    {
+      "id": "pl_easy_12",
+      "question": "Which player won the Premier League Golden Boot in the 2017–2018 season with Liverpool?",
+      "options": [
+        "Mohamed Salah",
+        "Harry Kane",
+        "Sergio Agüero",
+        "Romelu Lukaku"
+      ],
+      "answer": "Mohamed Salah"
+    },
+    {
+      "id": "pl_easy_13",
+      "question": "Which club's home ground is the Emirates Stadium?",
+      "options": [
+        "Arsenal",
+        "Chelsea",
+        "West Ham United",
+        "Tottenham Hotspur"
+      ],
+      "answer": "Arsenal"
+    },
+    {
+      "id": "pl_easy_14",
+      "question": "Which club has won the most English top-flight titles overall (including pre-Premier League era)?",
+      "options": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Everton"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "pl_easy_15",
+      "question": "What year did the Premier League begin (first season)?",
+      "options": [
+        "1992",
+        "1988",
+        "1995",
+        "2000"
+      ],
+      "answer": "1992"
+    }
+  ],
+  "premier_league_medium": [
+    {
+      "id": "pl_medium_01",
+      "question": "Who scored the 'famous' overhead kick for Gareth Bale in the 2018 Champions League final for Real Madrid? (trick: which player performed it?)",
+      "options": [
+        "Gareth Bale",
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Sergio Ramos"
+      ],
+      "answer": "Gareth Bale"
+    },
+    {
+      "id": "pl_medium_02",
+      "question": "Which manager led Leicester City to the Premier League title in 2015–2016?",
+      "options": [
+        "Claudio Ranieri",
+        "Nigel Pearson",
+        "Brendan Rodgers",
+        "Claude Puel"
+      ],
+      "answer": "Claudio Ranieri"
+    },
+    {
+      "id": "pl_medium_03",
+      "question": "Which player holds the record for the fastest Premier League hat-trick (time between first and third goal)?",
+      "options": [
+        "Sadio Mané",
+        "Robbie Fowler",
+        "Harry Kane",
+        "Sergio Agüero"
+      ],
+      "answer": "Sadio Mané"
+    },
+    {
+      "id": "pl_medium_04",
+      "question": "Which club ended Manchester United's long unbeaten home run at Old Trafford in the early 2000s with a historic win? (They famously lost to this club in 2001 FA Cup replay and later league defeats.)",
+      "options": [
+        "Liverpool",
+        "Arsenal",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ],
+      "answer": "Arsenal"
+    },
+    {
+      "id": "pl_medium_05",
+      "question": "Which player scored the winning goal for Manchester United in the 1999 Champions League final?",
+      "options": [
+        "Ole Gunnar Solskjær",
+        "Teddy Sheringham",
+        "Roy Keane",
+        "Paul Scholes"
+      ],
+      "answer": "Ole Gunnar Solskjær"
+    },
+    {
+      "id": "pl_medium_06",
+      "question": "Which club did Kevin De Bruyne join in 2015 that made him a central figure in the squad?",
+      "options": [
+        "Manchester City",
+        "Chelsea",
+        "Wolverhampton Wanderers",
+        "Leicester City"
+      ],
+      "answer": "Manchester City"
+    },
+    {
+      "id": "pl_medium_07",
+      "question": "Which player won both the Premier League title and the FIFA World Cup in his career: he won the World Cup in 1966? (Which notable English player later featured in the Premier League era?)",
+      "options": [
+        "Bobby Charlton",
+        "Wayne Rooney",
+        "Alan Shearer",
+        "Peter Crouch"
+      ],
+      "answer": "Bobby Charlton"
+    },
+    {
+      "id": "pl_medium_08",
+      "question": "Which manager famously implemented a long-term project at Chelsea that led to a Premier League title in 2005 (and later returned to win more)?",
+      "options": [
+        "José Mourinho",
+        "Carlo Ancelotti",
+        "Guus Hiddink",
+        "Avram Grant"
+      ],
+      "answer": "José Mourinho"
+    },
+    {
+      "id": "pl_medium_09",
+      "question": "Which player moved to Manchester United from Leicester City and later became known for his long-range shooting and leadership? (Think of midfield/defender who joined earlier.)",
+      "options": [
+        "Danny Simpson",
+        "N'Golo Kanté",
+        "Jamie Vardy",
+        "Riyad Mahrez"
+      ],
+      "answer": "Danny Simpson"
+    },
+    {
+      "id": "pl_medium_10",
+      "question": "Which club completed a domestic treble (league, FA Cup, League Cup) in England in the 1998–1999 season? (Note: 'treble' often refers to different trophies.)",
+      "options": [
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "pl_medium_11",
+      "question": "Which goalkeeper is famed for his penalty-saving heroics in the 2005 Champions League final for Liverpool and also enjoyed success in English football earlier?",
+      "options": [
+        "Jerzy Dudek",
+        "Pepe Reina",
+        "David Seaman",
+        "Petr Čech"
+      ],
+      "answer": "Jerzy Dudek"
+    },
+    {
+      "id": "pl_medium_12",
+      "question": "Which club signed Cristiano Ronaldo from Sporting CP before he moved to Manchester United in 2003? (Which club first brought him to the wider European stage?)",
+      "options": [
+        "Sporting CP to Manchester United directly",
+        "Real Madrid",
+        "Juventus",
+        "PSG"
+      ],
+      "answer": "Sporting CP to Manchester United directly"
+    },
+    {
+      "id": "pl_medium_13",
+      "question": "Which long-serving Arsenal manager is associated with the 'Invincibles' and a trophy-laden era in English football?",
+      "options": [
+        "Arsène Wenger",
+        "George Graham",
+        "Bertie Mee",
+        "Arsène Wenger (again)"
+      ],
+      "answer": "Arsène Wenger"
+    },
+    {
+      "id": "pl_medium_14",
+      "question": "Which player famously finished as Premier League top scorer multiple times for Arsenal before moving to Barcelona and later MLS?",
+      "options": [
+        "Thierry Henry",
+        "Robin van Persie",
+        "Pierre-Emerick Aubameyang",
+        "Olivier Giroud"
+      ],
+      "answer": "Thierry Henry"
+    },
+    {
+      "id": "pl_medium_15",
+      "question": "Which club did Harry Kane play for on loan early in his career before establishing himself at Tottenham Hotspur? (He had brief loan spells.)",
+      "options": [
+        "Leicester City",
+        "Norwich City",
+        "Leyton Orient",
+        "Millwall"
+      ],
+      "answer": "Leyton Orient"
+    }
+  ],
+  "premier_league_hard": [
+    {
+      "id": "pl_hard_01",
+      "question": "Who scored the first-ever goal in Premier League history (the opening season, August 1992)?",
+      "options": [
+        "Brian Deane",
+        "Eric Cantona",
+        "Alan Shearer",
+        "Mark Robins"
+      ],
+      "answer": "Brian Deane"
+    },
+    {
+      "id": "pl_hard_02",
+      "question": "Which player held the record for the fastest Premier League goal scored from kick-off (under 8 seconds)?",
+      "options": [
+        "Shane Long",
+        "Ledley King",
+        "Sergio Agüero",
+        "Darren Bent"
+      ],
+      "answer": "Shane Long"
+    },
+    {
+      "id": "pl_hard_03",
+      "question": "Which manager famously guided Chelsea to back-to-back Premier League titles in 2004–05 and 2005–06?",
+      "options": [
+        "José Mourinho",
+        "Carlo Ancelotti",
+        "Avram Grant",
+        "Guus Hiddink"
+      ],
+      "answer": "José Mourinho"
+    },
+    {
+      "id": "pl_hard_04",
+      "question": "Who scored the fastest Premier League hat-trick (minutes between first and third goal) in recorded history?",
+      "options": [
+        "Sadio Mané",
+        "Robbie Fowler",
+        "Andy Cole",
+        "Jermain Defoe"
+      ],
+      "answer": "Sadio Mané"
+    },
+    {
+      "id": "pl_hard_05",
+      "question": "Which player became the youngest goal scorer in Premier League history during its early seasons? (Hint: he scored for Manchester United in the 1990s.)",
+      "options": [
+        "Michael Owen",
+        "Wayne Rooney",
+        "Raheem Sterling",
+        "James Milner"
+      ],
+      "answer": "Michael Owen"
+    },
+    {
+      "id": "pl_hard_06",
+      "question": "Which club holds the record for the biggest top-flight win in England (20th century and modern era comparisons often cite this scoreline)?",
+      "options": [
+        "Arsenal (10–0 v. Loughborough, historical)",
+        "Manchester United",
+        "Leicester City",
+        "Portsmouth"
+      ],
+      "answer": "Arsenal (10–0 v. Loughborough, historical)"
+    },
+    {
+      "id": "pl_hard_07",
+      "question": "Which player scored a last-minute volley for Manchester United in the 1999 Champions League final to secure the title (the stoppage-time winner)?",
+      "options": [
+        "Ole Gunnar Solskjær",
+        "Teddy Sheringham",
+        "Andy Cole",
+        "Dwight Yorke"
+      ],
+      "answer": "Ole Gunnar Solskjær"
+    },
+    {
+      "id": "pl_hard_08",
+      "question": "Who holds the record for the most consecutive Premier League appearances for one club (long-standing durability record)?",
+      "options": [
+        "Gareth Barry",
+        "Brad Friedel",
+        "Frank Lampard",
+        "Grant Holt"
+      ],
+      "answer": "Brad Friedel"
+    },
+    {
+      "id": "pl_hard_09",
+      "question": "Which club completed a remarkable unbeaten run across the entire 38-game Premier League season aside from domestic cups?",
+      "options": [
+        "Arsenal 2003–04",
+        "Manchester United 1998–99",
+        "Chelsea 2004–05",
+        "Liverpool 2019–20"
+      ],
+      "answer": "Arsenal 2003–04"
+    },
+    {
+      "id": "pl_hard_10",
+      "question": "Which striker finished the 1995–96 season as the Premier League's top scorer, playing for Blackburn Rovers at the time?",
+      "options": [
+        "Alan Shearer",
+        "Chris Sutton",
+        "Les Ferdinand",
+        "Andy Cole"
+      ],
+      "answer": "Alan Shearer"
+    },
+    {
+      "id": "pl_hard_11",
+      "question": "Which player scored the fastest hat-trick in a Premier League match (by elapsed time between goals) and later moved to play in the French league? (He set the record while at Southampton.)",
+      "options": [
+        "Sadio Mané",
+        "Emmanuel Adebayor",
+        "Danny Ings",
+        "Everton's Yakubu"
+      ],
+      "answer": "Sadio Mané"
+    },
+    {
+      "id": "pl_hard_12",
+      "question": "Which manager is credited with building Liverpool's modern era resurgence culminating in a Premier League title in 2019–20?",
+      "options": [
+        "Jürgen Klopp",
+        "Brendan Rodgers",
+        "Rafa Benítez",
+        "Graham Potter"
+      ],
+      "answer": "Jürgen Klopp"
+    },
+    {
+      "id": "pl_hard_13",
+      "question": "Which player scored over 260 Premier League goals and finished his career as the all-time leading scorer? (He is also England's former record goalscorer.)",
+      "options": [
+        "Alan Shearer",
+        "Wayne Rooney",
+        "Thierry Henry",
+        "Andy Cole"
+      ],
+      "answer": "Alan Shearer"
+    },
+    {
+      "id": "pl_hard_14",
+      "question": "Which club famously recovered from being 2–0 down at half-time to beat Bayern Munich in the 2019–20 Champions League round? (This is a tricky one often referenced in European but also linked to club form.)",
+      "options": [
+        "Tottenham Hotspur",
+        "Liverpool",
+        "Manchester United",
+        "Ajax"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "pl_hard_15",
+      "question": "Which Premier League player scored 100 Premier League goals for Arsenal before moving to another European club later in his career?",
+      "options": [
+        "Thierry Henry",
+        "Robin van Persie",
+        "Olivier Giroud",
+        "Ian Wright"
+      ],
+      "answer": "Thierry Henry"
+    }
+  ],
+  "la_liga_easy": [
+    {
+      "id": "la_easy_01",
+      "question": "Which club won La Liga in the 2019–20 season?",
+      "options": [
+        "Real Madrid",
+        "Barcelona",
+        "Atlético Madrid",
+        "Sevilla"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "la_easy_02",
+      "question": "Who is the all-time top scorer for Barcelona?",
+      "options": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Samuel Eto'o",
+        "Neymar"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_easy_03",
+      "question": "Which stadium is home to Real Madrid?",
+      "options": [
+        "Santiago Bernabéu",
+        "Camp Nou",
+        "Wanda Metropolitano",
+        "San Mamés"
+      ],
+      "answer": "Santiago Bernabéu"
+    },
+    {
+      "id": "la_easy_04",
+      "question": "Which club is nicknamed 'Los Colchoneros'?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "answer": "Atlético Madrid"
+    },
+    {
+      "id": "la_easy_05",
+      "question": "Who won the Pichichi (La Liga top scorer) in the 2018–19 season?",
+      "options": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Cristiano Ronaldo",
+        "Karim Benzema"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_easy_06",
+      "question": "Which stadium is home to Barcelona?",
+      "options": [
+        "Camp Nou",
+        "Santiago Bernabéu",
+        "Wanda Metropolitano",
+        "Mestalla"
+      ],
+      "answer": "Camp Nou"
+    },
+    {
+      "id": "la_easy_07",
+      "question": "Which club won the La Liga title in 2013–14, breaking Barcelona's dominance?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "answer": "Atlético Madrid"
+    },
+    {
+      "id": "la_easy_08",
+      "question": "Who scored the most goals in La Liga during the 2011–12 season?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Radamel Falcao",
+        "Andrés Iniesta"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_easy_09",
+      "question": "Which club is nicknamed 'Los Blancos'?",
+      "options": [
+        "Real Madrid",
+        "Barcelona",
+        "Atlético Madrid",
+        "Valencia"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "la_easy_10",
+      "question": "Which player left Barcelona for PSG in 2021 after spending his entire professional career there?",
+      "options": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Gerard Piqué",
+        "Sergio Busquets"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_easy_11",
+      "question": "Which La Liga club has the nickname 'Los Rojiblancos'?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "answer": "Atlético Madrid"
+    },
+    {
+      "id": "la_easy_12",
+      "question": "Which team did Real Madrid defeat in the 2014 Copa del Rey final to win the title?",
+      "options": [
+        "Barcelona",
+        "Atlético Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "answer": "Barcelona"
+    },
+    {
+      "id": "la_easy_13",
+      "question": "Which player was Barcelona’s captain during the 2019–20 season?",
+      "options": [
+        "Lionel Messi",
+        "Sergio Busquets",
+        "Gerard Piqué",
+        "Marc-André ter Stegen"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_easy_14",
+      "question": "Which club plays its home games at the Wanda Metropolitano?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "Barcelona",
+        "Sevilla"
+      ],
+      "answer": "Atlético Madrid"
+    },
+    {
+      "id": "la_easy_15",
+      "question": "Who won the La Liga title in 2016–17?",
+      "options": [
+        "Real Madrid",
+        "Barcelona",
+        "Atlético Madrid",
+        "Sevilla"
+      ],
+      "answer": "Real Madrid"
+    }
+  ],
+  "la_liga_medium": [
+    {
+      "id": "la_medium_01",
+      "question": "Which player scored a hat-trick for Real Madrid against Barcelona in El Clásico in 2014?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Gareth Bale",
+        "James Rodríguez"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "la_medium_02",
+      "question": "Who won La Liga's Best Player award in the 2018–19 season?",
+      "options": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Antoine Griezmann",
+        "Sergio Ramos"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_medium_03",
+      "question": "Which club broke Barcelona’s 14-year dominance by winning La Liga in 2013–14?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "Valencia",
+        "Sevilla"
+      ],
+      "answer": "Atlético Madrid"
+    },
+    {
+      "id": "la_medium_04",
+      "question": "Which player scored the winning goal in the 2014 Copa del Rey final for Real Madrid?",
+      "options": [
+        "Gareth Bale",
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Sergio Ramos"
+      ],
+      "answer": "Gareth Bale"
+    },
+    {
+      "id": "la_medium_05",
+      "question": "Which La Liga club signed Luis Suárez from Liverpool in 2014?",
+      "options": [
+        "Barcelona",
+        "Atlético Madrid",
+        "Real Madrid",
+        "Valencia"
+      ],
+      "answer": "Barcelona"
+    },
+    {
+      "id": "la_medium_06",
+      "question": "Who won the La Liga top scorer (Pichichi) in 2012–13 with 46 goals?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Radamel Falcao",
+        "David Villa"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_medium_07",
+      "question": "Which manager led Real Madrid to La Liga and Champions League victories in the 2016–17 season?",
+      "options": [
+        "Zinedine Zidane",
+        "Carlo Ancelotti",
+        "Julen Lopetegui",
+        "Santiago Solari"
+      ],
+      "answer": "Zinedine Zidane"
+    },
+    {
+      "id": "la_medium_08",
+      "question": "Which player scored the iconic solo goal for Barcelona against Getafe in 2007 (Messi’s Maradona-style goal)?",
+      "options": [
+        "Lionel Messi",
+        "Pedro",
+        "Ronaldinho",
+        "Andrés Iniesta"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_medium_09",
+      "question": "Which club won the 2015–16 La Liga season with the fewest losses?",
+      "options": [
+        "Barcelona",
+        "Real Madrid",
+        "Atlético Madrid",
+        "Sevilla"
+      ],
+      "answer": "Barcelona"
+    },
+    {
+      "id": "la_medium_10",
+      "question": "Which Atlético Madrid player scored the decisive goal in the 2014 La Liga title race against Barcelona?",
+      "options": [
+        "Diego Godín",
+        "Antoine Griezmann",
+        "Gabi",
+        "Arda Turan"
+      ],
+      "answer": "Diego Godín"
+    },
+    {
+      "id": "la_medium_11",
+      "question": "Who won the Zamora Trophy (best goalkeeper) in the 2018–19 La Liga season?",
+      "options": [
+        "Jan Oblak",
+        "Marc-André ter Stegen",
+        "Thibaut Courtois",
+        "Keylor Navas"
+      ],
+      "answer": "Jan Oblak"
+    },
+    {
+      "id": "la_medium_12",
+      "question": "Which Real Madrid player scored a hat-trick against Bayern Munich in the 2017–18 Champions League quarter-finals?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Gareth Bale",
+        "Marco Asensio"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "la_medium_13",
+      "question": "Which club ended Barcelona’s 43-game unbeaten run in La Liga in 2017?",
+      "options": [
+        "Real Madrid",
+        "Valencia",
+        "Atlético Madrid",
+        "Sevilla"
+      ],
+      "answer": "Valencia"
+    },
+    {
+      "id": "la_medium_14",
+      "question": "Which player scored 50 goals in a single La Liga season for Barcelona in 2011–12?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Pedro",
+        "David Villa"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_medium_15",
+      "question": "Which club won the 2020–21 La Liga season?",
+      "options": [
+        "Atlético Madrid",
+        "Real Madrid",
+        "Barcelona",
+        "Sevilla"
+      ],
+      "answer": "Atlético Madrid"
+    }
+  ],
+  "la_liga_hard": [
+    {
+      "id": "la_hard_01",
+      "question": "Which Real Madrid player scored a hat-trick in the 2014–15 El Clásico, helping them to a rare victory at Camp Nou?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Gareth Bale",
+        "James Rodríguez"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "la_hard_02",
+      "question": "Which Atlético Madrid player scored the fastest goal in a La Liga match between 2015–2020?",
+      "options": [
+        "Antoine Griezmann",
+        "Fernando Torres",
+        "Diego Costa",
+        "Saúl Ñíguez"
+      ],
+      "answer": "Antoine Griezmann"
+    },
+    {
+      "id": "la_hard_03",
+      "question": "Who won the Pichichi (top scorer) in La Liga for five consecutive seasons from 2009–10 to 2013–14?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Radamel Falcao",
+        "Luis Suárez"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_hard_04",
+      "question": "Which Barcelona manager led the team to the sextuple (6 trophies) in 2008–09?",
+      "options": [
+        "Pep Guardiola",
+        "Luis Enrique",
+        "Ernesto Valverde",
+        "Frank Rijkaard"
+      ],
+      "answer": "Pep Guardiola"
+    },
+    {
+      "id": "la_hard_05",
+      "question": "Which player scored the last-minute goal to secure Atlético Madrid’s 2013–14 La Liga title?",
+      "options": [
+        "Diego Godín",
+        "Filipe Luís",
+        "Antoine Griezmann",
+        "Gabi"
+      ],
+      "answer": "Diego Godín"
+    },
+    {
+      "id": "la_hard_06",
+      "question": "Which player has the most assists in a single La Liga season in the modern era (2000s–2020)?",
+      "options": [
+        "Lionel Messi",
+        "Andrés Iniesta",
+        "Luis Suárez",
+        "Cristiano Ronaldo"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_hard_07",
+      "question": "Which Real Madrid player scored a record 17 goals in a single Champions League campaign while also performing in La Liga during 2013–14?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Gareth Bale",
+        "James Rodríguez"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "la_hard_08",
+      "question": "Which Barcelona player scored a crucial goal in the 2014–15 UEFA Champions League final against Juventus?",
+      "options": [
+        "Ivan Rakitić",
+        "Luis Suárez",
+        "Lionel Messi",
+        "Neymar"
+      ],
+      "answer": "Ivan Rakitić"
+    },
+    {
+      "id": "la_hard_09",
+      "question": "Which Atlético Madrid manager led the team to the 2013–14 La Liga title, ending Barcelona and Real Madrid dominance?",
+      "options": [
+        "Diego Simeone",
+        "Radomir Antić",
+        "Gregorio Manzano",
+        "Luis Aragonés"
+      ],
+      "answer": "Diego Simeone"
+    },
+    {
+      "id": "la_hard_10",
+      "question": "Which player scored a hat-trick for Barcelona against Real Madrid in the 2010–11 La Liga season?",
+      "options": [
+        "Lionel Messi",
+        "David Villa",
+        "Pedro",
+        "Andrés Iniesta"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_hard_11",
+      "question": "Which Real Madrid goalkeeper kept the most clean sheets in La Liga during the 2011–12 season?",
+      "options": [
+        "Iker Casillas",
+        "Diego López",
+        "Keylor Navas",
+        "Thibaut Courtois"
+      ],
+      "answer": "Iker Casillas"
+    },
+    {
+      "id": "la_hard_12",
+      "question": "Which Barcelona defender scored a long-range goal against PSG in the 2016–17 Champions League round of 16, also remembered in La Liga highlights?",
+      "options": [
+        "Lionel Messi",
+        "Gerard Piqué",
+        "Jordi Alba",
+        "Sergi Roberto"
+      ],
+      "answer": "Gerard Piqué"
+    },
+    {
+      "id": "la_hard_13",
+      "question": "Which player was the youngest to score a hat-trick in La Liga in the modern era (post-2000)?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Ansu Fati",
+        "David Villa"
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": "la_hard_14",
+      "question": "Which Atlético Madrid player scored in the 2014 Champions League final against Real Madrid?",
+      "options": [
+        "Diego Godín",
+        "Raúl García",
+        "Antoine Griezmann",
+        "Gabi"
+      ],
+      "answer": "Diego Godín"
+    },
+    {
+      "id": "la_hard_15",
+      "question": "Which player broke Lionel Messi’s record for most La Liga hat-tricks in the 2018–19 season?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Luis Suárez",
+        "Karim Benzema",
+        "Antoine Griezmann"
+      ],
+      "answer": "Cristiano Ronaldo"
+    }
+  ],
+  "serie_a_easy": [
+    {
+      "id": "sa_easy_01",
+      "question": "Which club won Serie A in the 2019–20 season?",
+      "options": [
+        "Juventus",
+        "Inter Milan",
+        "Atalanta",
+        "Napoli"
+      ],
+      "answer": "Juventus"
+    },
+    {
+      "id": "sa_easy_02",
+      "question": "Who is Juventus’ all-time top scorer in the modern era?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Alessandro Del Piero",
+        "Paulo Dybala",
+        "Fabio Quagliarella"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "sa_easy_03",
+      "question": "Which stadium is home to Inter Milan?",
+      "options": [
+        "San Siro",
+        "Allianz Stadium",
+        "Stadio Olimpico",
+        "Juventus Stadium"
+      ],
+      "answer": "San Siro"
+    },
+    {
+      "id": "sa_easy_04",
+      "question": "Which club is nicknamed 'Nerazzurri'?",
+      "options": [
+        "Inter Milan",
+        "AC Milan",
+        "Juventus",
+        "Napoli"
+      ],
+      "answer": "Inter Milan"
+    },
+    {
+      "id": "sa_easy_05",
+      "question": "Which player won the Serie A top scorer (Capocannoniere) in 2018–19?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lautaro Martínez",
+        "Romelu Lukaku",
+        "Ciro Immobile"
+      ],
+      "answer": "Ciro Immobile"
+    },
+    {
+      "id": "sa_easy_06",
+      "question": "Which stadium is home to Juventus?",
+      "options": [
+        "Allianz Stadium",
+        "San Siro",
+        "Stadio Olimpico",
+        "Marassi"
+      ],
+      "answer": "Allianz Stadium"
+    },
+    {
+      "id": "sa_easy_07",
+      "question": "Which club won Serie A in 2016–17, continuing their streak of titles?",
+      "options": [
+        "Juventus",
+        "Napoli",
+        "Roma",
+        "Inter Milan"
+      ],
+      "answer": "Juventus"
+    },
+    {
+      "id": "sa_easy_08",
+      "question": "Which player scored the most goals in Serie A during the 2011–12 season?",
+      "options": [
+        "Zlatan Ibrahimović",
+        "Antonio Di Natale",
+        "Edinson Cavani",
+        "Francesco Totti"
+      ],
+      "answer": "Antonio Di Natale"
+    },
+    {
+      "id": "sa_easy_09",
+      "question": "Which club is nicknamed 'Rossoneri'?",
+      "options": [
+        "AC Milan",
+        "Juventus",
+        "Napoli",
+        "Roma"
+      ],
+      "answer": "AC Milan"
+    },
+    {
+      "id": "sa_easy_10",
+      "question": "Which player joined Juventus from Real Madrid in 2018?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Gonzalo Higuaín",
+        "Paulo Dybala",
+        "Juan Cuadrado"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "sa_easy_11",
+      "question": "Which Serie A club plays home games at Stadio Olimpico?",
+      "options": [
+        "Roma and Lazio",
+        "Juventus",
+        "AC Milan",
+        "Napoli"
+      ],
+      "answer": "Roma and Lazio"
+    },
+    {
+      "id": "sa_easy_12",
+      "question": "Which player was the top scorer for Napoli in the 2019–20 season?",
+      "options": [
+        "Dries Mertens",
+        "Lorenzo Insigne",
+        "Arkadiusz Milik",
+        "Fernando Llorente"
+      ],
+      "answer": "Dries Mertens"
+    },
+    {
+      "id": "sa_easy_13",
+      "question": "Who won Serie A in the 2014–15 season?",
+      "options": [
+        "Juventus",
+        "Roma",
+        "Napoli",
+        "Fiorentina"
+      ],
+      "answer": "Juventus"
+    },
+    {
+      "id": "sa_easy_14",
+      "question": "Which club is nicknamed 'Bianconeri'?",
+      "options": [
+        "Juventus",
+        "AC Milan",
+        "Inter Milan",
+        "Napoli"
+      ],
+      "answer": "Juventus"
+    },
+    {
+      "id": "sa_easy_15",
+      "question": "Who was the Serie A top scorer in 2017–18?",
+      "options": [
+        "Ciro Immobile",
+        "Mauro Icardi",
+        "Paulo Dybala",
+        "Cristiano Ronaldo"
+      ],
+      "answer": "Ciro Immobile"
+    }
+  ],
+  "serie_a_medium": [
+    {
+      "id": "sa_medium_01",
+      "question": "Which player scored a hat-trick for Juventus against AC Milan in 2016–17?",
+      "options": [
+        "Paulo Dybala",
+        "Cristiano Ronaldo",
+        "Mario Mandžukić",
+        "Higuain"
+      ],
+      "answer": "Mario Mandžukić"
+    },
+    {
+      "id": "sa_medium_02",
+      "question": "Which club ended Juventus’ nine-year Serie A title streak in 2020–21?",
+      "options": [
+        "Inter Milan",
+        "Napoli",
+        "AC Milan",
+        "Atalanta"
+      ],
+      "answer": "Inter Milan"
+    },
+    {
+      "id": "sa_medium_03",
+      "question": "Who won the Serie A top scorer award in 2017–18 with 29 goals?",
+      "options": [
+        "Ciro Immobile",
+        "Mauro Icardi",
+        "Paulo Dybala",
+        "Cristiano Ronaldo"
+      ],
+      "answer": "Ciro Immobile"
+    },
+    {
+      "id": "sa_medium_04",
+      "question": "Which AC Milan player scored the winning goal in the 2010–11 Derby della Madonnina?",
+      "options": [
+        "Zlatan Ibrahimović",
+        "Robinho",
+        "Kevin-Prince Boateng",
+        "Stephan El Shaarawy"
+      ],
+      "answer": "Zlatan Ibrahimović"
+    },
+    {
+      "id": "sa_medium_05",
+      "question": "Which club did Romelu Lukaku join in 2019 to play in Serie A?",
+      "options": [
+        "Inter Milan",
+        "Juventus",
+        "Napoli",
+        "AC Milan"
+      ],
+      "answer": "Inter Milan"
+    },
+    {
+      "id": "sa_medium_06",
+      "question": "Which goalkeeper won the Serie A Goalkeeper of the Year award in 2019?",
+      "options": [
+        "Samir Handanović",
+        "Gianluigi Donnarumma",
+        "Wojciech Szczęsny",
+        "Juan Musso"
+      ],
+      "answer": "Samir Handanović"
+    },
+    {
+      "id": "sa_medium_07",
+      "question": "Which club won the Coppa Italia in 2019–20?",
+      "options": [
+        "Napoli",
+        "Juventus",
+        "Milan",
+        "Roma"
+      ],
+      "answer": "Napoli"
+    },
+    {
+      "id": "sa_medium_08",
+      "question": "Which Inter Milan player scored a hat-trick in Serie A during 2020–21 season?",
+      "options": [
+        "Romelu Lukaku",
+        "Lautaro Martínez",
+        "Christian Eriksen",
+        "Ashley Young"
+      ],
+      "answer": "Romelu Lukaku"
+    },
+    {
+      "id": "sa_medium_09",
+      "question": "Which player won the Serie A MVP award in 2018–19?",
+      "options": [
+        "Paulo Dybala",
+        "Cristiano Ronaldo",
+        "Marek Hamšík",
+        "Ciro Immobile"
+      ],
+      "answer": "Paulo Dybala"
+    },
+    {
+      "id": "sa_medium_10",
+      "question": "Which club plays at Stadio San Paolo (now Stadio Diego Armando Maradona)?",
+      "options": [
+        "Napoli",
+        "Roma",
+        "Juventus",
+        "Inter Milan"
+      ],
+      "answer": "Napoli"
+    },
+    {
+      "id": "sa_medium_11",
+      "question": "Which club won the Serie A 2018–19 season?",
+      "options": [
+        "Juventus",
+        "Napoli",
+        "Inter Milan",
+        "Roma"
+      ],
+      "answer": "Juventus"
+    },
+    {
+      "id": "sa_medium_12",
+      "question": "Which AC Milan player scored 15+ goals in 2017–18 Serie A season?",
+      "options": [
+        "Andre Silva",
+        "Hakan Çalhanoğlu",
+        "Patrick Cutrone",
+        "Suso"
+      ],
+      "answer": "Andre Silva"
+    },
+    {
+      "id": "sa_medium_13",
+      "question": "Which club finished second in Serie A 2019–20?",
+      "options": [
+        "Inter Milan",
+        "Napoli",
+        "Atalanta",
+        "Lazio"
+      ],
+      "answer": "Inter Milan"
+    },
+    {
+      "id": "sa_medium_14",
+      "question": "Which player won the Capocannoniere in Serie A 2019–20?",
+      "options": [
+        "Ciro Immobile",
+        "Romelu Lukaku",
+        "Cristiano Ronaldo",
+        "Paulo Dybala"
+      ],
+      "answer": "Ciro Immobile"
+    },
+    {
+      "id": "sa_medium_15",
+      "question": "Which club won the 2015–16 Serie A season?",
+      "options": [
+        "Juventus",
+        "Roma",
+        "Napoli",
+        "Inter Milan"
+      ],
+      "answer": "Juventus"
+    }
+  ],
+  "serie_a_hard": [
+    {
+      "id": "sa_hard_01",
+      "question": "Which Inter Milan player scored the fastest Serie A goal between 2015–2020?",
+      "options": [
+        "Romelu Lukaku",
+        "Lautaro Martínez",
+        "Ivan Perišić",
+        "Antonio Candreva"
+      ],
+      "answer": "Antonio Candreva"
+    },
+    {
+      "id": "sa_hard_02",
+      "question": "Who scored a hat-trick for Juventus against Napoli in the 2018–19 season?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Paulo Dybala",
+        "Mario Mandžukić",
+        "Douglas Costa"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "sa_hard_03",
+      "question": "Which Juventus manager led the team to nine consecutive Serie A titles?",
+      "options": [
+        "Massimiliano Allegri",
+        "Antonio Conte",
+        "Maurizio Sarri",
+        "Fabio Capello"
+      ],
+      "answer": "Massimiliano Allegri"
+    },
+    {
+      "id": "sa_hard_04",
+      "question": "Which AC Milan player scored a 30+ goal season in Serie A post-2000?",
+      "options": [
+        "Zlatan Ibrahimović",
+        "Andriy Shevchenko",
+        "Filippo Inzaghi",
+        "Alexandre Pato"
+      ],
+      "answer": "Zlatan Ibrahimović"
+    },
+    {
+      "id": "sa_hard_05",
+      "question": "Which Napoli player scored a double in the 2019 Coppa Italia final?",
+      "options": [
+        "Dries Mertens",
+        "Lorenzo Insigne",
+        "Arkadiusz Milik",
+        "José Callejón"
+      ],
+      "answer": "Dries Mertens"
+    },
+    {
+      "id": "sa_hard_06",
+      "question": "Which player scored the decisive goal for Inter Milan to clinch the 2020–21 Serie A title?",
+      "options": [
+        "Romelu Lukaku",
+        "Lautaro Martínez",
+        "Nicolo Barella",
+        "Christian Eriksen"
+      ],
+      "answer": "Romelu Lukaku"
+    },
+    {
+      "id": "sa_hard_07",
+      "question": "Which Juventus defender scored a header against AC Milan in 2017–18 Serie A?",
+      "options": [
+        "Giorgio Chiellini",
+        "Leonardo Bonucci",
+        "Andrea Barzagli",
+        "Alex Sandro"
+      ],
+      "answer": "Leonardo Bonucci"
+    },
+    {
+      "id": "sa_hard_08",
+      "question": "Which Lazio player scored a hat-trick in Serie A during the 2019–20 season?",
+      "options": [
+        "Ciro Immobile",
+        "Luis Alberto",
+        "Felipe Caicedo",
+        "Joaquín Correa"
+      ],
+      "answer": "Ciro Immobile"
+    },
+    {
+      "id": "sa_hard_09",
+      "question": "Which Serie A club signed Romelu Lukaku from Manchester United in 2019?",
+      "options": [
+        "Inter Milan",
+        "Juventus",
+        "Napoli",
+        "Milan"
+      ],
+      "answer": "Inter Milan"
+    },
+    {
+      "id": "sa_hard_10",
+      "question": "Who scored a hat-trick for Juventus against Lazio in 2016–17?",
+      "options": [
+        "Mario Mandžukić",
+        "Paulo Dybala",
+        "Cristiano Ronaldo",
+        "Gonzalo Higuaín"
+      ],
+      "answer": "Mario Mandžukić"
+    },
+    {
+      "id": "sa_hard_11",
+      "question": "Which player scored a brace for Napoli against Juventus in 2017–18?",
+      "options": [
+        "Dries Mertens",
+        "Lorenzo Insigne",
+        "Arkadiusz Milik",
+        "José Callejón"
+      ],
+      "answer": "Dries Mertens"
+    },
+    {
+      "id": "sa_hard_12",
+      "question": "Which club won the Supercoppa Italiana in 2019?",
+      "options": [
+        "Juventus",
+        "Lazio",
+        "Napoli",
+        "Inter Milan"
+      ],
+      "answer": "Lazio"
+    },
+    {
+      "id": "sa_hard_13",
+      "question": "Which player scored 36 goals in the 2019–20 Serie A season for Lazio?",
+      "options": [
+        "Ciro Immobile",
+        "Felipe Caicedo",
+        "Luis Alberto",
+        "Joaquín Correa"
+      ],
+      "answer": "Ciro Immobile"
+    },
+    {
+      "id": "sa_hard_14",
+      "question": "Which manager won Serie A with Inter Milan in 2020–21?",
+      "options": [
+        "Antonio Conte",
+        "Luciano Spalletti",
+        "Stefano Pioli",
+        "Maurizio Sarri"
+      ],
+      "answer": "Antonio Conte"
+    },
+    {
+      "id": "sa_hard_15",
+      "question": "Which Juventus player scored a crucial free-kick against Roma in 2018–19?",
+      "options": [
+        "Miralem Pjanić",
+        "Paulo Dybala",
+        "Cristiano Ronaldo",
+        "Douglas Costa"
+      ],
+      "answer": "Miralem Pjanić"
+    }
+  ],
+  "bundesliga_easy": [
+    {
+      "id": "bl_easy_01",
+      "question": "Which club has won the most Bundesliga titles?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Schalke 04",
+        "Hamburger SV"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "bl_easy_02",
+      "question": "Which stadium is home to Bayern Munich?",
+      "options": [
+        "Allianz Arena",
+        "Signal Iduna Park",
+        "Mercedes-Benz Arena",
+        "Volksparkstadion"
+      ],
+      "answer": "Allianz Arena"
+    },
+    {
+      "id": "bl_easy_03",
+      "question": "Which club is nicknamed 'Die Schwarzgelben'?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Schalke 04",
+        "RB Leipzig"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "bl_easy_04",
+      "question": "Which player won the Bundesliga top scorer in 2019–20 with 34 goals?",
+      "options": [
+        "Robert Lewandowski",
+        "Erling Haaland",
+        "Marco Reus",
+        "Wout Weghorst"
+      ],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": "bl_easy_05",
+      "question": "Which club plays home games at Signal Iduna Park?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Schalke 04",
+        "Leverkusen"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "bl_easy_06",
+      "question": "Which club won the Bundesliga in 2015–16?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Wolfsburg",
+        "Leverkusen"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "bl_easy_07",
+      "question": "Which club is nicknamed 'Die Roten'?",
+      "options": [
+        "Bayern Munich",
+        "Leverkusen",
+        "Schalke 04",
+        "Borussia Dortmund"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "bl_easy_08",
+      "question": "Who scored the most goals for Bayern Munich in 2019–20 season?",
+      "options": [
+        "Robert Lewandowski",
+        "Thomas Müller",
+        "Serge Gnabry",
+        "Kingsley Coman"
+      ],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": "bl_easy_09",
+      "question": "Which team won the Bundesliga in 2010–11 season?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Schalke 04",
+        "Hamburg SV"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "bl_easy_10",
+      "question": "Which German club is nicknamed 'Die Königsblauen'?",
+      "options": [
+        "Schalke 04",
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "RB Leipzig"
+      ],
+      "answer": "Schalke 04"
+    },
+    {
+      "id": "bl_easy_11",
+      "question": "Which club won the Bundesliga title in 2018–19?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "RB Leipzig",
+        "Wolfsburg"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "bl_easy_12",
+      "question": "Which player joined Bayern Munich from Borussia Dortmund in 2013?",
+      "options": [
+        "Mario Götze",
+        "Robert Lewandowski",
+        "Thomas Müller",
+        "Franck Ribéry"
+      ],
+      "answer": "Mario Götze"
+    },
+    {
+      "id": "bl_easy_13",
+      "question": "Which club plays at the Red Bull Arena?",
+      "options": [
+        "RB Leipzig",
+        "Bayern Munich",
+        "Leverkusen",
+        "Schalke 04"
+      ],
+      "answer": "RB Leipzig"
+    },
+    {
+      "id": "bl_easy_14",
+      "question": "Which team won the Bundesliga in 2020–21?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "RB Leipzig",
+        "VfL Wolfsburg"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "bl_easy_15",
+      "question": "Which Bayern Munich player scored 41 goals in Bundesliga 2020–21 season?",
+      "options": [
+        "Robert Lewandowski",
+        "Thomas Müller",
+        "Serge Gnabry",
+        "Leon Goretzka"
+      ],
+      "answer": "Robert Lewandowski"
+    }
+  ],
+  "bundesliga_medium": [
+    {
+      "id": "bl_medium_01",
+      "question": "Which Borussia Dortmund player scored 29 goals in the 2020–21 Bundesliga season?",
+      "options": [
+        "Erling Haaland",
+        "Marco Reus",
+        "Jadon Sancho",
+        "Thorgan Hazard"
+      ],
+      "answer": "Erling Haaland"
+    },
+    {
+      "id": "bl_medium_02",
+      "question": "Which manager led Bayern Munich to a treble in the 2019–20 season?",
+      "options": [
+        "Hansi Flick",
+        "Niko Kovač",
+        "Carlo Ancelotti",
+        "Pep Guardiola"
+      ],
+      "answer": "Hansi Flick"
+    },
+    {
+      "id": "bl_medium_03",
+      "question": "Which club won the Bundesliga with the fewest losses in 2013–14?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Bayer Leverkusen",
+        "Schalke 04"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "bl_medium_04",
+      "question": "Which player scored a hat-trick for Bayern Munich against Dortmund in 2014–15 season?",
+      "options": [
+        "Robert Lewandowski",
+        "Arjen Robben",
+        "Franck Ribéry",
+        "Thomas Müller"
+      ],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": "bl_medium_05",
+      "question": "Which club finished second in Bundesliga 2018–19 season?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "RB Leipzig",
+        "Schalke 04"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "bl_medium_06",
+      "question": "Which goalkeeper won Bundesliga Goalkeeper of the Year in 2019–20?",
+      "options": [
+        "Manuel Neuer",
+        "Roman Bürki",
+        "Peter Gulacsi",
+        "Koen Casteels"
+      ],
+      "answer": "Manuel Neuer"
+    },
+    {
+      "id": "bl_medium_07",
+      "question": "Which Bayern Munich player scored 6 goals in a single Bundesliga match in 2015?",
+      "options": [
+        "Robert Lewandowski",
+        "Thomas Müller",
+        "Arjen Robben",
+        "Franck Ribéry"
+      ],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": "bl_medium_08",
+      "question": "Which Bundesliga club plays home games at Mercedes-Benz Arena?",
+      "options": [
+        "VfB Stuttgart",
+        "Bayer Leverkusen",
+        "Schalke 04",
+        "RB Leipzig"
+      ],
+      "answer": "VfB Stuttgart"
+    },
+    {
+      "id": "bl_medium_09",
+      "question": "Who was Bundesliga top scorer in 2017–18?",
+      "options": [
+        "Robert Lewandowski",
+        "Pierre-Emerick Aubameyang",
+        "Mario Gomez",
+        "Marco Reus"
+      ],
+      "answer": "Pierre-Emerick Aubameyang"
+    },
+    {
+      "id": "bl_medium_10",
+      "question": "Which team won Bundesliga in 2011–12 season?",
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Schalke 04",
+        "Werder Bremen"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "bl_medium_11",
+      "question": "Which Bayern Munich player scored a hat-trick against Wolfsburg in 2018–19 season?",
+      "options": [
+        "Robert Lewandowski",
+        "Thomas Müller",
+        "Kingsley Coman",
+        "Serge Gnabry"
+      ],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": "bl_medium_12",
+      "question": "Which club finished third in Bundesliga 2019–20?",
+      "options": [
+        "RB Leipzig",
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Schalke 04"
+      ],
+      "answer": "RB Leipzig"
+    },
+    {
+      "id": "bl_medium_13",
+      "question": "Which Borussia Dortmund manager won back-to-back Bundesliga titles in 2010–11 and 2011–12?",
+      "options": [
+        "Jürgen Klopp",
+        "Lucien Favre",
+        "Thomas Tuchel",
+        "Dortmund caretaker"
+      ],
+      "answer": "Jürgen Klopp"
+    },
+    {
+      "id": "bl_medium_14",
+      "question": "Which player scored the fastest Bundesliga hat-trick in 2019–20?",
+      "options": [
+        "Robert Lewandowski",
+        "Erling Haaland",
+        "Marco Reus",
+        "Jadon Sancho"
+      ],
+      "answer": "Erling Haaland"
+    },
+    {
+      "id": "bl_medium_15",
+      "question": "Which team won the 2016–17 Bundesliga season?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "RB Leipzig",
+        "Schalke 04"
+      ],
+      "answer": "Bayern Munich"
+    }
+  ],
+  "bundesliga_hard": [
+    {
+      "id": "bl_hard_01",
+      "question": "Which Bayern Munich player scored five goals in nine minutes against Wolfsburg in 2015?",
+      "options": [
+        "Robert Lewandowski",
+        "Thomas Müller",
+        "Arjen Robben",
+        "Franck Ribéry"
+      ],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": "bl_hard_02",
+      "question": "Which club won the very first Bundesliga title in 1963–64?",
+      "options": [
+        "1. FC Köln",
+        "Borussia Dortmund",
+        "Hamburger SV",
+        "Werder Bremen"
+      ],
+      "answer": "1. FC Köln"
+    },
+    {
+      "id": "bl_hard_03",
+      "question": "Who is the youngest goalscorer in Bundesliga history?",
+      "options": [
+        "Youssoufa Moukoko",
+        "Florian Wirtz",
+        "Nuri Şahin",
+        "Julian Draxler"
+      ],
+      "answer": "Youssoufa Moukoko"
+    },
+    {
+      "id": "bl_hard_04",
+      "question": "Which manager has the most Bundesliga titles?",
+      "options": [
+        "Udo Lattek",
+        "Ottmar Hitzfeld",
+        "Jupp Heynckes",
+        "Hansi Flick"
+      ],
+      "answer": "Udo Lattek"
+    },
+    {
+      "id": "bl_hard_05",
+      "question": "Which Bundesliga club was famously relegated in 2018, ending a 55-year top-flight streak?",
+      "options": [
+        "Hamburger SV",
+        "Werder Bremen",
+        "Eintracht Frankfurt",
+        "Schalke 04"
+      ],
+      "answer": "Hamburger SV"
+    },
+    {
+      "id": "bl_hard_06",
+      "question": "Which goalkeeper has kept the most clean sheets in Bundesliga history?",
+      "options": [
+        "Manuel Neuer",
+        "Oliver Kahn",
+        "Sepp Maier",
+        "Jens Lehmann"
+      ],
+      "answer": "Oliver Kahn"
+    },
+    {
+      "id": "bl_hard_07",
+      "question": "Which club did Jürgen Klopp lead to two Bundesliga titles?",
+      "options": [
+        "Borussia Dortmund",
+        "Mainz 05",
+        "Bayern Munich",
+        "Schalke 04"
+      ],
+      "answer": "Borussia Dortmund"
+    },
+    {
+      "id": "bl_hard_08",
+      "question": "Which player holds the record for the most Bundesliga appearances?",
+      "options": [
+        "Karl-Heinz Körbel",
+        "Claudio Pizarro",
+        "Oliver Kahn",
+        "Miroslav Klose"
+      ],
+      "answer": "Karl-Heinz Körbel"
+    },
+    {
+      "id": "bl_hard_09",
+      "question": "Which club did Kevin De Bruyne play for in the Bundesliga?",
+      "options": [
+        "VfL Wolfsburg",
+        "Bayer Leverkusen",
+        "Borussia Mönchengladbach",
+        "Schalke 04"
+      ],
+      "answer": "VfL Wolfsburg"
+    },
+    {
+      "id": "bl_hard_10",
+      "question": "Who was the top Bundesliga scorer in the 1971–72 season with 40 goals?",
+      "options": [
+        "Gerd Müller",
+        "Klaus Fischer",
+        "Karl-Heinz Rummenigge",
+        "Jupp Heynckes"
+      ],
+      "answer": "Gerd Müller"
+    },
+    {
+      "id": "bl_hard_11",
+      "question": "Which Bundesliga club was known for their 'Neverkusen' nickname after multiple runner-up finishes?",
+      "options": [
+        "Bayer Leverkusen",
+        "Schalke 04",
+        "VfB Stuttgart",
+        "Borussia Dortmund"
+      ],
+      "answer": "Bayer Leverkusen"
+    },
+    {
+      "id": "bl_hard_12",
+      "question": "Which striker became the first Japanese player to win the Bundesliga?",
+      "options": [
+        "Shinji Kagawa",
+        "Makoto Hasebe",
+        "Naohiro Takahara",
+        "Takumi Minamino"
+      ],
+      "answer": "Shinji Kagawa"
+    },
+    {
+      "id": "bl_hard_13",
+      "question": "Which Bayern Munich legend was known as 'Der Titan'?",
+      "options": [
+        "Oliver Kahn",
+        "Franz Beckenbauer",
+        "Lothar Matthäus",
+        "Philipp Lahm"
+      ],
+      "answer": "Oliver Kahn"
+    },
+    {
+      "id": "bl_hard_14",
+      "question": "Which club shocked Bayern by winning the 2008–09 Bundesliga title?",
+      "options": [
+        "VfL Wolfsburg",
+        "Werder Bremen",
+        "VfB Stuttgart",
+        "Hamburger SV"
+      ],
+      "answer": "VfL Wolfsburg"
+    },
+    {
+      "id": "bl_hard_15",
+      "question": "Which Bundesliga club plays its home games at Signal Iduna Park?",
+      "options": [
+        "Borussia Dortmund",
+        "Schalke 04",
+        "RB Leipzig",
+        "1. FC Köln"
+      ],
+      "answer": "Borussia Dortmund"
+    }
+  ],
+  "l1_easy": [
+    {
+      "id": "l1_easy_01",
+      "question": "Which club has won the most Ligue 1 titles?",
+      "options": [
+        "Saint-Étienne",
+        "Paris Saint-Germain",
+        "Lyon",
+        "Marseille"
+      ],
+      "answer": "Saint-Étienne"
+    },
+    {
+      "id": "l1_easy_02",
+      "question": "Which club is commonly known as PSG?",
+      "options": [
+        "Paris Saint-Germain",
+        "AS Monaco",
+        "Lille OSC",
+        "Nice"
+      ],
+      "answer": "Paris Saint-Germain"
+    },
+    {
+      "id": "l1_easy_03",
+      "question": "Which French club did Zlatan Ibrahimović play for?",
+      "options": [
+        "Paris Saint-Germain",
+        "Lyon",
+        "Marseille",
+        "Bordeaux"
+      ],
+      "answer": "Paris Saint-Germain"
+    },
+    {
+      "id": "l1_easy_04",
+      "question": "In which country is Ligue 1 played?",
+      "options": [
+        "France",
+        "Belgium",
+        "Spain",
+        "Italy"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": "l1_easy_05",
+      "question": "Which Ligue 1 club is based in Marseille?",
+      "options": [
+        "Olympique de Marseille",
+        "Lyon",
+        "Rennes",
+        "Lens"
+      ],
+      "answer": "Olympique de Marseille"
+    },
+    {
+      "id": "l1_easy_06",
+      "question": "Which club is nicknamed 'Les Gones'?",
+      "options": [
+        "Lyon",
+        "Lille",
+        "Nice",
+        "Toulouse"
+      ],
+      "answer": "Lyon"
+    },
+    {
+      "id": "l1_easy_07",
+      "question": "Which player wore number 10 at PSG alongside Mbappé?",
+      "options": [
+        "Neymar",
+        "Di María",
+        "Cavani",
+        "David Luiz"
+      ],
+      "answer": "Neymar"
+    },
+    {
+      "id": "l1_easy_08",
+      "question": "What is the capital city home to PSG?",
+      "options": [
+        "Paris",
+        "Lyon",
+        "Monaco",
+        "Marseille"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "id": "l1_easy_09",
+      "question": "Which club did Kylian Mbappé play for before PSG?",
+      "options": [
+        "AS Monaco",
+        "Nice",
+        "Lyon",
+        "Bordeaux"
+      ],
+      "answer": "AS Monaco"
+    },
+    {
+      "id": "l1_easy_10",
+      "question": "What color is traditionally associated with Olympique Lyonnais?",
+      "options": [
+        "White and Red",
+        "Yellow and Black",
+        "Green",
+        "Blue"
+      ],
+      "answer": "White and Red"
+    },
+    {
+      "id": "l1_easy_11",
+      "question": "Which team plays at Stade Vélodrome?",
+      "options": [
+        "Olympique de Marseille",
+        "Lille",
+        "Rennes",
+        "Nantes"
+      ],
+      "answer": "Olympique de Marseille"
+    },
+    {
+      "id": "l1_easy_12",
+      "question": "Which Ligue 1 club is famous for its youth academy at La Masia?",
+      "options": [
+        "None, that's Barcelona",
+        "PSG",
+        "Lyon",
+        "Marseille"
+      ],
+      "answer": "None, that's Barcelona"
+    },
+    {
+      "id": "l1_easy_13",
+      "question": "Which club won the 2020–21 Ligue 1 title?",
+      "options": [
+        "Lille OSC",
+        "PSG",
+        "Lyon",
+        "Marseille"
+      ],
+      "answer": "Lille OSC"
+    },
+    {
+      "id": "l1_easy_14",
+      "question": "Which legendary French player played for Marseille?",
+      "options": [
+        "Didier Drogba",
+        "Robert Pirès",
+        "Zidane",
+        "Henry"
+      ],
+      "answer": "Didier Drogba"
+    },
+    {
+      "id": "l1_easy_15",
+      "question": "Which team is often called ASM?",
+      "options": [
+        "AS Monaco",
+        "AS Nancy",
+        "Angers SCO",
+        "Auxerre"
+      ],
+      "answer": "AS Monaco"
+    }
+  ],
+  "l1_medium": [
+    {
+      "id": "l1_medium_01",
+      "question": "Which Ligue 1 club is based in the principality of Monaco?",
+      "options": [
+        "AS Monaco",
+        "Nice",
+        "Lorient",
+        "Toulouse"
+      ],
+      "answer": "AS Monaco"
+    },
+    {
+      "id": "l1_medium_02",
+      "question": "Who was the top scorer in Ligue 1 for the 2014–15 season?",
+      "options": [
+        "Alexandre Lacazette",
+        "Zlatan Ibrahimović",
+        "Edinson Cavani",
+        "Kylian Mbappé"
+      ],
+      "answer": "Alexandre Lacazette"
+    },
+    {
+      "id": "l1_medium_03",
+      "question": "Which club is nicknamed ‘Les Dogues’?",
+      "options": [
+        "Lille OSC",
+        "Nantes",
+        "Rennes",
+        "Lens"
+      ],
+      "answer": "Lille OSC"
+    },
+    {
+      "id": "l1_medium_04",
+      "question": "What is the name of PSG’s home stadium?",
+      "options": [
+        "Parc des Princes",
+        "Stade de France",
+        "Stade Vélodrome",
+        "Groupama Stadium"
+      ],
+      "answer": "Parc des Princes"
+    },
+    {
+      "id": "l1_medium_05",
+      "question": "Which French club did Eden Hazard play for before moving to Chelsea?",
+      "options": [
+        "Lille OSC",
+        "Monaco",
+        "Marseille",
+        "Lyon"
+      ],
+      "answer": "Lille OSC"
+    },
+    {
+      "id": "l1_medium_06",
+      "question": "Which club won seven consecutive Ligue 1 titles between 2002 and 2008?",
+      "options": [
+        "Lyon",
+        "PSG",
+        "Marseille",
+        "Bordeaux"
+      ],
+      "answer": "Lyon"
+    },
+    {
+      "id": "l1_medium_07",
+      "question": "Who managed PSG before Mauricio Pochettino?",
+      "options": [
+        "Thomas Tuchel",
+        "Laurent Blanc",
+        "Unai Emery",
+        "Carlo Ancelotti"
+      ],
+      "answer": "Thomas Tuchel"
+    },
+    {
+      "id": "l1_medium_08",
+      "question": "Which club is based in the city of Lyon?",
+      "options": [
+        "Olympique Lyonnais",
+        "Saint-Étienne",
+        "Nantes",
+        "Toulouse"
+      ],
+      "answer": "Olympique Lyonnais"
+    },
+    {
+      "id": "l1_medium_09",
+      "question": "Which team plays their home games at Groupama Stadium?",
+      "options": [
+        "Lyon",
+        "Lille",
+        "Montpellier",
+        "Nice"
+      ],
+      "answer": "Lyon"
+    },
+    {
+      "id": "l1_medium_10",
+      "question": "Who scored the winning goal for Marseille in the 1993 Champions League final?",
+      "options": [
+        "Baśile Boli",
+        "Jean-Pierre Papin",
+        "Didier Deschamps",
+        "Rudi Völler"
+      ],
+      "answer": "Baśile Boli"
+    },
+    {
+      "id": "l1_medium_11",
+      "question": "Which Ligue 1 club did Thierry Henry briefly manage?",
+      "options": [
+        "AS Monaco",
+        "PSG",
+        "Nice",
+        "Rennes"
+      ],
+      "answer": "AS Monaco"
+    },
+    {
+      "id": "l1_medium_12",
+      "question": "Which club is nicknamed ‘Les Canaris’?",
+      "options": [
+        "Nantes",
+        "Marseille",
+        "Rennes",
+        "Clermont Foot"
+      ],
+      "answer": "Nantes"
+    },
+    {
+      "id": "l1_medium_13",
+      "question": "Which Argentinian manager coached Marseille from 2021 to 2022?",
+      "options": [
+        "Jorge Sampaoli",
+        "Marcelo Bielsa",
+        "Mauricio Pochettino",
+        "Gerardo Martino"
+      ],
+      "answer": "Jorge Sampaoli"
+    },
+    {
+      "id": "l1_medium_14",
+      "question": "Which club did Mario Balotelli play for in Ligue 1?",
+      "options": [
+        "Nice",
+        "Lyon",
+        "PSG",
+        "Bordeaux"
+      ],
+      "answer": "Nice"
+    },
+    {
+      "id": "l1_medium_15",
+      "question": "Which club's fans are known for the 'Yellow Wall' in Ligue 1?",
+      "options": [
+        "RC Lens",
+        "Marseille",
+        "PSG",
+        "Saint-Étienne"
+      ],
+      "answer": "RC Lens"
+    }
+  ],
+  "l1_hard": [
+    {
+      "id": "l1_hard_01",
+      "question": "Which club was the first French team to win the European Cup?",
+      "options": [
+        "Marseille",
+        "Reims",
+        "Lyon",
+        "Monaco"
+      ],
+      "answer": "Marseille"
+    },
+    {
+      "id": "l1_hard_02",
+      "question": "Before PSG's dominance, which club had the most Ligue 1 titles?",
+      "options": [
+        "Saint-Étienne",
+        "Marseille",
+        "Nantes",
+        "Lyon"
+      ],
+      "answer": "Saint-Étienne"
+    },
+    {
+      "id": "l1_hard_03",
+      "question": "Which manager led Monaco to the 2016–17 Ligue 1 title?",
+      "options": [
+        "Leonardo Jardim",
+        "Didier Deschamps",
+        "Claudio Ranieri",
+        "Lucien Favre"
+      ],
+      "answer": "Leonardo Jardim"
+    },
+    {
+      "id": "l1_hard_04",
+      "question": "Who is the all-time top scorer in Ligue 1 history?",
+      "options": [
+        "Delio Onnis",
+        "Jean-Pierre Papin",
+        "Kylian Mbappé",
+        "Zlatan Ibrahimović"
+      ],
+      "answer": "Delio Onnis"
+    },
+    {
+      "id": "l1_hard_05",
+      "question": "Which club did Michel Platini play for in Ligue 1?",
+      "options": [
+        "Nancy",
+        "Saint-Étienne",
+        "Marseille",
+        "Lille"
+      ],
+      "answer": "Nancy"
+    },
+    {
+      "id": "l1_hard_06",
+      "question": "Who was the Ligue 1 Player of the Year in 2011 before moving to England?",
+      "options": [
+        "Eden Hazard",
+        "Gervinho",
+        "Karim Benzema",
+        "Yoann Gourcuff"
+      ],
+      "answer": "Eden Hazard"
+    },
+    {
+      "id": "l1_hard_07",
+      "question": "Which French club reached the Champions League final in 2004?",
+      "options": [
+        "AS Monaco",
+        "Lyon",
+        "Marseille",
+        "PSG"
+      ],
+      "answer": "AS Monaco"
+    },
+    {
+      "id": "l1_hard_08",
+      "question": "Which club did Franck Ribéry play for in Ligue 1 before joining Bayern Munich?",
+      "options": [
+        "Marseille",
+        "Lens",
+        "Metz",
+        "Monaco"
+      ],
+      "answer": "Marseille"
+    },
+    {
+      "id": "l1_hard_09",
+      "question": "Who scored the fastest hat-trick in Ligue 1 history?",
+      "options": [
+        "Kylian Mbappé",
+        "André-Pierre Gignac",
+        "Sonny Anderson",
+        "Mohamed Sellami"
+      ],
+      "answer": "Kylian Mbappé"
+    },
+    {
+      "id": "l1_hard_10",
+      "question": "Which club was relegated in 2010 after financial issues despite finishing mid-table?",
+      "options": [
+        "Grenoble",
+        "Lens",
+        "Lorient",
+        "Le Mans"
+      ],
+      "answer": "Grenoble"
+    },
+    {
+      "id": "l1_hard_11",
+      "question": "Which club did Didier Deschamps captain to a Ligue 1 title?",
+      "options": [
+        "Marseille",
+        "Bordeaux",
+        "Monaco",
+        "Nantes"
+      ],
+      "answer": "Marseille"
+    },
+    {
+      "id": "l1_hard_12",
+      "question": "Who won the Ligue 1 Golden Boot in the 2001–02 season?",
+      "options": [
+        "Sonny Anderson",
+        "Djibril Cissé",
+        "Pauleta",
+        "Jean-Pierre Papin"
+      ],
+      "answer": "Djibril Cissé"
+    },
+    {
+      "id": "l1_hard_13",
+      "question": "Before PSG bought him, at which club did Ronaldinho play in France?",
+      "options": [
+        "PSG",
+        "Saint-Étienne",
+        "Lyon",
+        "Marseille"
+      ],
+      "answer": "PSG"
+    },
+    {
+      "id": "l1_hard_14",
+      "question": "Which club won the Ligue 1 title in 1998?",
+      "options": [
+        "Lens",
+        "Monaco",
+        "Marseille",
+        "Nantes"
+      ],
+      "answer": "Lens"
+    },
+    {
+      "id": "l1_hard_15",
+      "question": "Which goalkeeper has the most Ligue 1 appearances?",
+      "options": [
+        "Mickaël Landreau",
+        "Jean-Luc Ettori",
+        "Grégory Coupet",
+        "Fabien Barthez"
+      ],
+      "answer": "Mickaël Landreau"
+    }
+  ],
+  "ed_easy": [
+    {
+      "id": "ed_easy_01",
+      "question": "Which club has won the most Eredivisie titles?",
+      "options": [
+        "Ajax",
+        "PSV Eindhoven",
+        "Feyenoord",
+        "AZ Alkmaar"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_easy_02",
+      "question": "In which country is the Eredivisie played?",
+      "options": [
+        "Netherlands",
+        "Belgium",
+        "Germany",
+        "Denmark"
+      ],
+      "answer": "Netherlands"
+    },
+    {
+      "id": "ed_easy_03",
+      "question": "Which Eredivisie club is based in Amsterdam?",
+      "options": [
+        "Ajax",
+        "PSV",
+        "Feyenoord",
+        "Utrecht"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_easy_04",
+      "question": "Which club is known as PSV?",
+      "options": [
+        "PSV Eindhoven",
+        "AZ Alkmaar",
+        "Vitesse",
+        "Sparta Rotterdam"
+      ],
+      "answer": "PSV Eindhoven"
+    },
+    {
+      "id": "ed_easy_05",
+      "question": "Which Eredivisie club famously plays at De Kuip?",
+      "options": [
+        "Feyenoord",
+        "Ajax",
+        "PSV",
+        "Utrecht"
+      ],
+      "answer": "Feyenoord"
+    },
+    {
+      "id": "ed_easy_06",
+      "question": "Which Dutch club did Luis Suárez play for before joining Liverpool?",
+      "options": [
+        "Ajax",
+        "AZ Alkmaar",
+        "Twente",
+        "PSV"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_easy_07",
+      "question": "Which club did Arjen Robben start his professional career with?",
+      "options": [
+        "Groningen",
+        "Ajax",
+        "PSV",
+        "Feyenoord"
+      ],
+      "answer": "Groningen"
+    },
+    {
+      "id": "ed_easy_08",
+      "question": "Which club is based in Eindhoven?",
+      "options": [
+        "PSV",
+        "Ajax",
+        "Sparta Rotterdam",
+        "Twente"
+      ],
+      "answer": "PSV"
+    },
+    {
+      "id": "ed_easy_09",
+      "question": "Which Eredivisie club is nicknamed 'de Godenzonen'?",
+      "options": [
+        "Ajax",
+        "Feyenoord",
+        "PSV",
+        "AZ"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_easy_10",
+      "question": "Which city is Feyenoord from?",
+      "options": [
+        "Rotterdam",
+        "Amsterdam",
+        "Eindhoven",
+        "Arnhem"
+      ],
+      "answer": "Rotterdam"
+    },
+    {
+      "id": "ed_easy_11",
+      "question": "What color is primarily associated with Ajax?",
+      "options": [
+        "Red and White",
+        "Blue and White",
+        "Red and Black",
+        "Yellow"
+      ],
+      "answer": "Red and White"
+    },
+    {
+      "id": "ed_easy_12",
+      "question": "Which Eredivisie club did Ruud van Nistelrooy play for?",
+      "options": [
+        "PSV",
+        "Ajax",
+        "Feyenoord",
+        "Twente"
+      ],
+      "answer": "PSV"
+    },
+    {
+      "id": "ed_easy_13",
+      "question": "Which goalkeeper played for Ajax before joining Barcelona?",
+      "options": [
+        "Jasper Cillessen",
+        "Edwin van der Sar",
+        "Maarten Stekelenburg",
+        "Michel Vorm"
+      ],
+      "answer": "Jasper Cillessen"
+    },
+    {
+      "id": "ed_easy_14",
+      "question": "Which club is located in Alkmaar?",
+      "options": [
+        "AZ",
+        "Utrecht",
+        "PSV",
+        "Heerenveen"
+      ],
+      "answer": "AZ"
+    },
+    {
+      "id": "ed_easy_15",
+      "question": "Which Dutch club did Christian Eriksen play for?",
+      "options": [
+        "Ajax",
+        "Twente",
+        "PSV",
+        "Feyenoord"
+      ],
+      "answer": "Ajax"
+    }
+  ],
+  "ed_medium": [
+    {
+      "id": "ed_medium_01",
+      "question": "Which club ended Ajax’s title streak by winning the Eredivisie in 2017?",
+      "options": [
+        "Feyenoord",
+        "PSV",
+        "AZ",
+        "Twente"
+      ],
+      "answer": "Feyenoord"
+    },
+    {
+      "id": "ed_medium_02",
+      "question": "Who was the Eredivisie top scorer in the 2018–19 season?",
+      "options": [
+        "Dusan Tadic",
+        "Luuk de Jong",
+        "Klaas-Jan Huntelaar",
+        "Hakim Ziyech"
+      ],
+      "answer": "Luuk de Jong"
+    },
+    {
+      "id": "ed_medium_03",
+      "question": "Which Eredivisie club is nicknamed ‘Boeren’ (Farmers)?",
+      "options": [
+        "PSV",
+        "Ajax",
+        "Vitesse",
+        "Feyenoord"
+      ],
+      "answer": "PSV"
+    },
+    {
+      "id": "ed_medium_04",
+      "question": "Which Dutch club did Memphis Depay play for before moving to Manchester United?",
+      "options": [
+        "PSV",
+        "Ajax",
+        "AZ",
+        "Feyenoord"
+      ],
+      "answer": "PSV"
+    },
+    {
+      "id": "ed_medium_05",
+      "question": "Who managed Ajax when they reached the Champions League semi-finals in 2019?",
+      "options": [
+        "Erik ten Hag",
+        "Frank de Boer",
+        "Ronald Koeman",
+        "Peter Bosz"
+      ],
+      "answer": "Erik ten Hag"
+    },
+    {
+      "id": "ed_medium_06",
+      "question": "Which club did Robin van Persie start his senior career with?",
+      "options": [
+        "Feyenoord",
+        "Ajax",
+        "PSV",
+        "Twente"
+      ],
+      "answer": "Feyenoord"
+    },
+    {
+      "id": "ed_medium_07",
+      "question": "Which Eredivisie club did Luis Suárez captain?",
+      "options": [
+        "Ajax",
+        "PSV",
+        "Feyenoord",
+        "AZ"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_medium_08",
+      "question": "Which stadium is home to PSV Eindhoven?",
+      "options": [
+        "Philips Stadion",
+        "De Kuip",
+        "Johan Cruyff Arena",
+        "GelreDome"
+      ],
+      "answer": "Philips Stadion"
+    },
+    {
+      "id": "ed_medium_09",
+      "question": "Which club won the Eredivisie in the 2009-10 season?",
+      "options": [
+        "Twente",
+        "PSV",
+        "Ajax",
+        "AZ"
+      ],
+      "answer": "Twente"
+    },
+    {
+      "id": "ed_medium_10",
+      "question": "Which Eredivisie club plays at the Johan Cruyff Arena?",
+      "options": [
+        "Ajax",
+        "PSV",
+        "Feyenoord",
+        "AZ"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_medium_11",
+      "question": "Who is Feyenoord’s all-time top scorer?",
+      "options": [
+        "Dirk Kuyt",
+        "Ruud Gullit",
+        "Robin van Persie",
+        "Wim van Hanegem"
+      ],
+      "answer": "Robin van Persie"
+    },
+    {
+      "id": "ed_medium_12",
+      "question": "Which Dutch club did Hakim Ziyech play for before joining Chelsea?",
+      "options": [
+        "Ajax",
+        "Heerenveen",
+        "Twente",
+        "AZ"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_medium_13",
+      "question": "Which Eredivisie club won the UEFA Cup in 2002?",
+      "options": [
+        "Feyenoord",
+        "Ajax",
+        "PSV",
+        "AZ"
+      ],
+      "answer": "Feyenoord"
+    },
+    {
+      "id": "ed_medium_14",
+      "question": "Which Dutch club did Georginio Wijnaldum play for before moving abroad?",
+      "options": [
+        "PSV",
+        "Ajax",
+        "Feyenoord",
+        "AZ"
+      ],
+      "answer": "PSV"
+    },
+    {
+      "id": "ed_medium_15",
+      "question": "Which club has the nickname ‘de Godenzonen’?",
+      "options": [
+        "Ajax",
+        "PSV",
+        "Feyenoord",
+        "Vitesse"
+      ],
+      "answer": "Ajax"
+    }
+  ],
+  "ed_hard": [
+    {
+      "id": "ed_hard_01",
+      "question": "Which manager led AZ Alkmaar to the Eredivisie title in the 2008–09 season?",
+      "options": [
+        "Louis van Gaal",
+        "Ronald Koeman",
+        "Co Adriaanse",
+        "Dick Advocaat"
+      ],
+      "answer": "Louis van Gaal"
+    },
+    {
+      "id": "ed_hard_02",
+      "question": "In what year was the Eredivisie officially founded?",
+      "options": [
+        "1956",
+        "1960",
+        "1949",
+        "1952"
+      ],
+      "answer": "1956"
+    },
+    {
+      "id": "ed_hard_03",
+      "question": "Which club was the first to win the Eredivisie title outside of the 'big three' (Ajax, PSV, Feyenoord)?",
+      "options": [
+        "AZ",
+        "Twente",
+        "Sparta Rotterdam",
+        "Heerenveen"
+      ],
+      "answer": "AZ"
+    },
+    {
+      "id": "ed_hard_04",
+      "question": "Who was the youngest player to debut for Ajax in the Eredivisie?",
+      "options": [
+        "Clarence Seedorf",
+        "Ryan Gravenberch",
+        "Brian Brobbey",
+        "Patrick Kluivert"
+      ],
+      "answer": "Ryan Gravenberch"
+    },
+    {
+      "id": "ed_hard_05",
+      "question": "Which Dutch club did Ronaldo Nazário play for early in his career?",
+      "options": [
+        "PSV",
+        "Ajax",
+        "Feyenoord",
+        "AZ"
+      ],
+      "answer": "PSV"
+    },
+    {
+      "id": "ed_hard_06",
+      "question": "Which club did Co Adriaanse manage before winning the league with Porto?",
+      "options": [
+        "AZ",
+        "Ajax",
+        "Twente",
+        "Utrecht"
+      ],
+      "answer": "AZ"
+    },
+    {
+      "id": "ed_hard_07",
+      "question": "Who scored the winning goal for Twente in their 2010 Eredivisie title-clinching match?",
+      "options": [
+        "Bryan Ruiz",
+        "Luuk de Jong",
+        "Theo Janssen",
+        "Nacer Chadli"
+      ],
+      "answer": "Bryan Ruiz"
+    },
+    {
+      "id": "ed_hard_08",
+      "question": "Which Eredivisie club did Zlatan Ibrahimović play for before moving to Juventus?",
+      "options": [
+        "Ajax",
+        "PSV",
+        "Feyenoord",
+        "Heerenveen"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_hard_09",
+      "question": "Which player scored the fastest hat-trick in Eredivisie history?",
+      "options": [
+        "Marko Vejinović",
+        "Klaas-Jan Huntelaar",
+        "Luis Suárez",
+        "Dirk Kuyt"
+      ],
+      "answer": "Marko Vejinović"
+    },
+    {
+      "id": "ed_hard_10",
+      "question": "Which club did Erik ten Hag manage before joining Ajax?",
+      "options": [
+        "Utrecht",
+        "Twente",
+        "AZ",
+        "PSV"
+      ],
+      "answer": "Utrecht"
+    },
+    {
+      "id": "ed_hard_11",
+      "question": "Which team finished second behind AZ in the 2008–09 Eredivisie season?",
+      "options": [
+        "Ajax",
+        "Twente",
+        "PSV",
+        "Feyenoord"
+      ],
+      "answer": "Ajax"
+    },
+    {
+      "id": "ed_hard_12",
+      "question": "Which player holds the record for most Eredivisie goals in a single season?",
+      "options": [
+        "Coen Dillen",
+        "Ruud Geels",
+        "Marco van Basten",
+        "Klaas-Jan Huntelaar"
+      ],
+      "answer": "Coen Dillen"
+    },
+    {
+      "id": "ed_hard_13",
+      "question": "Which manager replaced Erik ten Hag at Ajax in 2022?",
+      "options": [
+        "Alfred Schreuder",
+        "Peter Bosz",
+        "Frank de Boer",
+        "Giovanni van Bronckhorst"
+      ],
+      "answer": "Alfred Schreuder"
+    },
+    {
+      "id": "ed_hard_14",
+      "question": "Which Eredivisie club did Robin van Persie play for as a youth?",
+      "options": [
+        "Excelsior",
+        "Feyenoord",
+        "Ajax",
+        "Sparta Rotterdam"
+      ],
+      "answer": "Excelsior"
+    },
+    {
+      "id": "ed_hard_15",
+      "question": "Who was the Eredivisie top scorer in the 2004–05 season?",
+      "options": [
+        "Dirk Kuyt",
+        "Afonso Alves",
+        "Mateja Kežman",
+        "Klaas-Jan Huntelaar"
+      ],
+      "answer": "Dirk Kuyt"
+    }
+  ],
+  "int_easy": [
+    {
+      "id": "int_easy_01",
+      "question": "Which country has won the most FIFA World Cups?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "Italy",
+        "Argentina"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_easy_02",
+      "question": "Which country hosted the 2018 FIFA World Cup?",
+      "options": [
+        "Russia",
+        "Qatar",
+        "Brazil",
+        "Germany"
+      ],
+      "answer": "Russia"
+    },
+    {
+      "id": "int_easy_03",
+      "question": "Who won the Golden Ball at the 2018 World Cup?",
+      "options": [
+        "Luka Modrić",
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Kylian Mbappé"
+      ],
+      "answer": "Luka Modrić"
+    },
+    {
+      "id": "int_easy_04",
+      "question": "Which country won the 2014 FIFA World Cup?",
+      "options": [
+        "Germany",
+        "Argentina",
+        "Brazil",
+        "Netherlands"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "id": "int_easy_05",
+      "question": "Which country won the first ever FIFA World Cup in 1930?",
+      "options": [
+        "Uruguay",
+        "Argentina",
+        "Italy",
+        "Brazil"
+      ],
+      "answer": "Uruguay"
+    },
+    {
+      "id": "int_easy_06",
+      "question": "Who is the all-time top scorer in FIFA World Cup history?",
+      "options": [
+        "Miroslav Klose",
+        "Ronaldo Nazário",
+        "Pelé",
+        "Gerd Müller"
+      ],
+      "answer": "Miroslav Klose"
+    },
+    {
+      "id": "int_easy_07",
+      "question": "Which country won the 2010 FIFA World Cup?",
+      "options": [
+        "Spain",
+        "Netherlands",
+        "Germany",
+        "Brazil"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "id": "int_easy_08",
+      "question": "Which country hosted the 2002 FIFA World Cup?",
+      "options": [
+        "South Korea & Japan",
+        "France",
+        "Germany",
+        "USA"
+      ],
+      "answer": "South Korea & Japan"
+    },
+    {
+      "id": "int_easy_09",
+      "question": "Who scored the winning goal in the 2014 World Cup final?",
+      "options": [
+        "Mario Götze",
+        "James Rodríguez",
+        "Lionel Messi",
+        "Thomas Müller"
+      ],
+      "answer": "Mario Götze"
+    },
+    {
+      "id": "int_easy_10",
+      "question": "Which country won the 1998 FIFA World Cup?",
+      "options": [
+        "France",
+        "Brazil",
+        "Croatia",
+        "Italy"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": "int_easy_11",
+      "question": "Which country did Diego Maradona represent?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Spain",
+        "Italy"
+      ],
+      "answer": "Argentina"
+    },
+    {
+      "id": "int_easy_12",
+      "question": "Which country hosted the 2006 FIFA World Cup?",
+      "options": [
+        "Germany",
+        "France",
+        "Italy",
+        "South Africa"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "id": "int_easy_13",
+      "question": "Who won the 2018 World Cup Final?",
+      "options": [
+        "France",
+        "Croatia",
+        "Belgium",
+        "England"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": "int_easy_14",
+      "question": "Which country has appeared in three consecutive World Cup finals from 1994 to 2002?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "Italy",
+        "Argentina"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_easy_15",
+      "question": "Which player scored the 'Hand of God' goal?",
+      "options": [
+        "Diego Maradona",
+        "Pelé",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "answer": "Diego Maradona"
+    }
+  ],
+  "int_medium": [
+    {
+      "id": "int_medium_01",
+      "question": "Which country won the 1978 FIFA World Cup?",
+      "options": [
+        "Argentina",
+        "Netherlands",
+        "Germany",
+        "Brazil"
+      ],
+      "answer": "Argentina"
+    },
+    {
+      "id": "int_medium_02",
+      "question": "Who scored a hat-trick for England against Germany in the 2010 World Cup?",
+      "options": [
+        "None, England did not score a hat-trick",
+        "Wayne Rooney",
+        "Michael Owen",
+        "Harry Kane"
+      ],
+      "answer": "None, England did not score a hat-trick"
+    },
+    {
+      "id": "int_medium_03",
+      "question": "Which country won the 1966 FIFA World Cup?",
+      "options": [
+        "England",
+        "Brazil",
+        "Germany",
+        "Italy"
+      ],
+      "answer": "England"
+    },
+    {
+      "id": "int_medium_04",
+      "question": "Who scored the golden goal in the 1998 World Cup semi-final for France against Croatia?",
+      "options": [
+        "Laurent Blanc",
+        "Zinedine Zidane",
+        "Youri Djorkaeff",
+        "Stephane Guivarc’h"
+      ],
+      "answer": "Laurent Blanc"
+    },
+    {
+      "id": "int_medium_05",
+      "question": "Which country hosted the 1994 FIFA World Cup?",
+      "options": [
+        "USA",
+        "Italy",
+        "France",
+        "Mexico"
+      ],
+      "answer": "USA"
+    },
+    {
+      "id": "int_medium_06",
+      "question": "Which country has never won a FIFA World Cup?",
+      "options": [
+        "Netherlands",
+        "Brazil",
+        "Italy",
+        "Germany"
+      ],
+      "answer": "Netherlands"
+    },
+    {
+      "id": "int_medium_07",
+      "question": "Which country did Pelé represent in the World Cup?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Italy",
+        "Uruguay"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_medium_08",
+      "question": "Which country won the 2002 FIFA World Cup?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "South Korea",
+        "Spain"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_medium_09",
+      "question": "Which country won the first World Cup held in Europe?",
+      "options": [
+        "Italy",
+        "Uruguay",
+        "France",
+        "Sweden"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "id": "int_medium_10",
+      "question": "Which country has hosted the World Cup twice?",
+      "options": [
+        "Italy",
+        "Brazil",
+        "Germany",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": "int_medium_11",
+      "question": "Who scored the winning penalty in the 2006 World Cup final shootout?",
+      "options": [
+        "Fabio Grosso",
+        "Zinedine Zidane",
+        "Andrea Pirlo",
+        "Marco Materazzi"
+      ],
+      "answer": "Fabio Grosso"
+    },
+    {
+      "id": "int_medium_12",
+      "question": "Which country won the 1958 FIFA World Cup?",
+      "options": [
+        "Brazil",
+        "Sweden",
+        "Germany",
+        "Italy"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_medium_13",
+      "question": "Who is the youngest player to score in a World Cup?",
+      "options": [
+        "Pelé",
+        "Kylian Mbappé",
+        "Michael Owen",
+        "Lionel Messi"
+      ],
+      "answer": "Pelé"
+    },
+    {
+      "id": "int_medium_14",
+      "question": "Which country won the 1982 FIFA World Cup?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Argentina",
+        "France"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "id": "int_medium_15",
+      "question": "Which country finished as runner-up in the 2014 World Cup?",
+      "options": [
+        "Argentina",
+        "Netherlands",
+        "Brazil",
+        "Germany"
+      ],
+      "answer": "Argentina"
+    }
+  ],
+  "int_hard": [
+    {
+      "id": "int_hard_01",
+      "question": "Who scored four goals in a single World Cup match for Austria in 1954?",
+      "options": [
+        "Erich Probst",
+        "Pelé",
+        "Just Fontaine",
+        "Gerd Müller"
+      ],
+      "answer": "Erich Probst"
+    },
+    {
+      "id": "int_hard_02",
+      "question": "Which country did France defeat in the 1998 World Cup final?",
+      "options": [
+        "Brazil",
+        "Croatia",
+        "Italy",
+        "Netherlands"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_hard_03",
+      "question": "Who scored the fastest goal in World Cup history?",
+      "options": [
+        "Hakan Şükür",
+        "Christian Benteke",
+        "Bryan Robson",
+        "Clint Dempsey"
+      ],
+      "answer": "Hakan Şükür"
+    },
+    {
+      "id": "int_hard_04",
+      "question": "Which country won the 1934 FIFA World Cup?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Austria",
+        "Hungary"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "id": "int_hard_05",
+      "question": "Which country did Paolo Rossi represent when winning the Golden Boot in 1982?",
+      "options": [
+        "Italy",
+        "Brazil",
+        "Germany",
+        "Argentina"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "id": "int_hard_06",
+      "question": "Which country won the 1970 FIFA World Cup?",
+      "options": [
+        "Brazil",
+        "Italy",
+        "Germany",
+        "Uruguay"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_hard_07",
+      "question": "Who scored the only goal in the 1966 World Cup final?",
+      "options": [
+        "Geoff Hurst",
+        "Bobby Charlton",
+        "Pelé",
+        "Eusébio"
+      ],
+      "answer": "Geoff Hurst"
+    },
+    {
+      "id": "int_hard_08",
+      "question": "Which team did Argentina defeat in the 1986 World Cup final?",
+      "options": [
+        "West Germany",
+        "Italy",
+        "England",
+        "Brazil"
+      ],
+      "answer": "West Germany"
+    },
+    {
+      "id": "int_hard_09",
+      "question": "Which country won the 1950 FIFA World Cup famously without a final match?",
+      "options": [
+        "Uruguay",
+        "Brazil",
+        "Sweden",
+        "Spain"
+      ],
+      "answer": "Uruguay"
+    },
+    {
+      "id": "int_hard_10",
+      "question": "Who scored the 'Goal of the Century' in the 1986 World Cup?",
+      "options": [
+        "Diego Maradona",
+        "Pelé",
+        "Michel Platini",
+        "Zico"
+      ],
+      "answer": "Diego Maradona"
+    },
+    {
+      "id": "int_hard_11",
+      "question": "Which country did Ronaldo Nazário represent in the 2002 World Cup?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Italy",
+        "Germany"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "id": "int_hard_12",
+      "question": "Which country finished fourth in the 2018 FIFA World Cup?",
+      "options": [
+        "Belgium",
+        "Croatia",
+        "England",
+        "France"
+      ],
+      "answer": "Belgium"
+    },
+    {
+      "id": "int_hard_13",
+      "question": "Which country won the 1938 FIFA World Cup?",
+      "options": [
+        "Italy",
+        "Hungary",
+        "Brazil",
+        "France"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "id": "int_hard_14",
+      "question": "Who scored a hat-trick in the 1966 World Cup final?",
+      "options": [
+        "Geoff Hurst",
+        "Bobby Charlton",
+        "Pelé",
+        "Eusébio"
+      ],
+      "answer": "Geoff Hurst"
+    },
+    {
+      "id": "int_hard_15",
+      "question": "Which country won the 1990 FIFA World Cup?",
+      "options": [
+        "West Germany",
+        "Argentina",
+        "Italy",
+        "Brazil"
+      ],
+      "answer": "West Germany"
+    }
+  ],
+  "ucl_easy": [
+    {
+      "id": "ucl_easy_01",
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "options": [
+        "Real Madrid",
+        "AC Milan",
+        "Liverpool",
+        "Barcelona"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_easy_02",
+      "question": "Which club did Cristiano Ronaldo play for when he won his first Champions League?",
+      "options": [
+        "Manchester United",
+        "Real Madrid",
+        "Juventus",
+        "Sporting CP"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "ucl_easy_03",
+      "question": "Which club did Lionel Messi play for in the Champions League before joining PSG?",
+      "options": [
+        "Barcelona",
+        "Real Madrid",
+        "Juventus",
+        "Manchester City"
+      ],
+      "answer": "Barcelona"
+    },
+    {
+      "id": "ucl_easy_04",
+      "question": "Which team won the first ever Champions League title under its current format in 1992–93?",
+      "options": [
+        "Olympique Marseille",
+        "AC Milan",
+        "Barcelona",
+        "Juventus"
+      ],
+      "answer": "Olympique Marseille"
+    },
+    {
+      "id": "ucl_easy_05",
+      "question": "Which English club won the Champions League in 2019?",
+      "options": [
+        "Liverpool",
+        "Manchester City",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "ucl_easy_06",
+      "question": "Which stadium hosts the Champions League final in 2023?",
+      "options": [
+        "Atatürk Olympic Stadium",
+        "Wembley Stadium",
+        "San Siro",
+        "Allianz Arena"
+      ],
+      "answer": "Atatürk Olympic Stadium"
+    },
+    {
+      "id": "ucl_easy_07",
+      "question": "Which German club has won the most Champions League titles?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Hamburger SV",
+        "Schalke 04"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "ucl_easy_08",
+      "question": "Which club is nicknamed 'The Reds' in the Champions League?",
+      "options": [
+        "Liverpool",
+        "Manchester United",
+        "AC Milan",
+        "Benfica"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "ucl_easy_09",
+      "question": "Who scored the winning goal in the 2014 Champions League final for Real Madrid?",
+      "options": [
+        "Sergio Ramos",
+        "Cristiano Ronaldo",
+        "Gareth Bale",
+        "Karim Benzema"
+      ],
+      "answer": "Sergio Ramos"
+    },
+    {
+      "id": "ucl_easy_10",
+      "question": "Which club did Zinedine Zidane manage to three consecutive Champions League titles?",
+      "options": [
+        "Real Madrid",
+        "Juventus",
+        "Bayern Munich",
+        "Barcelona"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_easy_11",
+      "question": "Which Portuguese club has won the Champions League?",
+      "options": [
+        "Porto",
+        "Benfica",
+        "Sporting CP",
+        "All of the above"
+      ],
+      "answer": "Porto"
+    },
+    {
+      "id": "ucl_easy_12",
+      "question": "Which team won the 2005 Champions League final in Istanbul?",
+      "options": [
+        "Liverpool",
+        "AC Milan",
+        "Juventus",
+        "Real Madrid"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "ucl_easy_13",
+      "question": "Which club is known as 'Los Blancos'?",
+      "options": [
+        "Real Madrid",
+        "Barcelona",
+        "Valencia",
+        "Sevilla"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_easy_14",
+      "question": "Which club won the Champions League in 1999 after a dramatic comeback against Bayern Munich?",
+      "options": [
+        "Manchester United",
+        "Real Madrid",
+        "Juventus",
+        "Bayern Munich"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "ucl_easy_15",
+      "question": "Which Italian club has won the most Champions League titles?",
+      "options": [
+        "AC Milan",
+        "Inter Milan",
+        "Juventus",
+        "Roma"
+      ],
+      "answer": "AC Milan"
+    }
+  ],
+  "ucl_medium": [
+    {
+      "id": "ucl_medium_01",
+      "question": "Which club won the Champions League in 2012?",
+      "options": [
+        "Chelsea",
+        "Bayern Munich",
+        "Real Madrid",
+        "Barcelona"
+      ],
+      "answer": "Chelsea"
+    },
+    {
+      "id": "ucl_medium_02",
+      "question": "Who scored the equalizer for Liverpool in the 2005 Champions League final?",
+      "options": [
+        "Vladimir Smicer",
+        "Steven Gerrard",
+        "Luis Garcia",
+        "Xabi Alonso"
+      ],
+      "answer": "Vladimir Smicer"
+    },
+    {
+      "id": "ucl_medium_03",
+      "question": "Which club did Raul play for in the Champions League?",
+      "options": [
+        "Real Madrid",
+        "Barcelona",
+        "Valencia",
+        "Sevilla"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_medium_04",
+      "question": "Which team did AC Milan beat in the 2007 Champions League final?",
+      "options": [
+        "Liverpool",
+        "Manchester United",
+        "Chelsea",
+        "Juventus"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "ucl_medium_05",
+      "question": "Which club eliminated Barcelona in the 2019 Champions League semi-finals?",
+      "options": [
+        "Liverpool",
+        "Ajax",
+        "Tottenham Hotspur",
+        "Manchester City"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "ucl_medium_06",
+      "question": "Which player scored a hat-trick in the 2017 Champions League quarter-final for Barcelona?",
+      "options": [
+        "Luis Suárez",
+        "Lionel Messi",
+        "Neymar",
+        "Cristiano Ronaldo"
+      ],
+      "answer": "Luis Suárez"
+    },
+    {
+      "id": "ucl_medium_07",
+      "question": "Which club did Didier Drogba score the winning penalty for in the 2012 final?",
+      "options": [
+        "Chelsea",
+        "Manchester United",
+        "AC Milan",
+        "Real Madrid"
+      ],
+      "answer": "Chelsea"
+    },
+    {
+      "id": "ucl_medium_08",
+      "question": "Which German club lost to Manchester United in the 1999 Champions League final?",
+      "options": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Schalke 04",
+        "Hamburg"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "ucl_medium_09",
+      "question": "Which club did Paolo Maldini represent in the Champions League?",
+      "options": [
+        "AC Milan",
+        "Juventus",
+        "Inter Milan",
+        "Napoli"
+      ],
+      "answer": "AC Milan"
+    },
+    {
+      "id": "ucl_medium_10",
+      "question": "Which team did Barcelona defeat in the 2009 final to win the Champions League?",
+      "options": [
+        "Manchester United",
+        "Chelsea",
+        "Arsenal",
+        "AC Milan"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "ucl_medium_11",
+      "question": "Which club has the nickname 'The Red Devils' in the Champions League?",
+      "options": [
+        "Manchester United",
+        "Liverpool",
+        "PSV",
+        "Benfica"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "id": "ucl_medium_12",
+      "question": "Which club won the 2010 Champions League final?",
+      "options": [
+        "Inter Milan",
+        "Bayern Munich",
+        "Barcelona",
+        "Real Madrid"
+      ],
+      "answer": "Inter Milan"
+    },
+    {
+      "id": "ucl_medium_13",
+      "question": "Which club did Karim Benzema play for in the Champions League?",
+      "options": [
+        "Real Madrid",
+        "Lyon",
+        "Juventus",
+        "Chelsea"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_medium_14",
+      "question": "Which team did Ajax defeat in the 1995 Champions League final?",
+      "options": [
+        "AC Milan",
+        "Juventus",
+        "Real Madrid",
+        "Barcelona"
+      ],
+      "answer": "AC Milan"
+    },
+    {
+      "id": "ucl_medium_15",
+      "question": "Which player scored the winning goal for Bayern Munich in the 2013 final?",
+      "options": [
+        "Arjen Robben",
+        "Thomas Müller",
+        "Franck Ribéry",
+        "Mario Mandžukić"
+      ],
+      "answer": "Arjen Robben"
+    }
+  ],
+  "ucl_hard": [
+    {
+      "id": "ucl_hard_01",
+      "question": "Which club did José Mourinho manage to win the Champions League in 2004?",
+      "options": [
+        "Porto",
+        "Chelsea",
+        "Inter Milan",
+        "Real Madrid"
+      ],
+      "answer": "Porto"
+    },
+    {
+      "id": "ucl_hard_02",
+      "question": "Who scored a hat-trick for Real Madrid against Bayern Munich in the 2017 quarter-final?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Gareth Bale",
+        "Sergio Ramos"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "ucl_hard_03",
+      "question": "Which club did Didier Drogba play for when scoring in the 2007 final?",
+      "options": [
+        "Chelsea",
+        "Marseille",
+        "AC Milan",
+        "Porto"
+      ],
+      "answer": "Chelsea"
+    },
+    {
+      "id": "ucl_hard_04",
+      "question": "Which club did Lionel Messi score four goals against in a single Champions League match in 2012?",
+      "options": [
+        "Arsenal",
+        "Bayer Leverkusen",
+        "Manchester City",
+        "Real Madrid"
+      ],
+      "answer": "Bayer Leverkusen"
+    },
+    {
+      "id": "ucl_hard_05",
+      "question": "Who scored the fastest goal in Champions League history?",
+      "options": [
+        "Roy Makaay",
+        "Cristiano Ronaldo",
+        "Robert Lewandowski",
+        "Lionel Messi"
+      ],
+      "answer": "Roy Makaay"
+    },
+    {
+      "id": "ucl_hard_06",
+      "question": "Which club won the first European Cup in 1956?",
+      "options": [
+        "Real Madrid",
+        "AC Milan",
+        "Barcelona",
+        "Benfica"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_hard_07",
+      "question": "Which club did Raul score the most Champions League goals for?",
+      "options": [
+        "Real Madrid",
+        "Schalke 04",
+        "Barcelona",
+        "Valencia"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_hard_08",
+      "question": "Which team did Juventus lose to in the 1998 final?",
+      "options": [
+        "Real Madrid",
+        "Ajax",
+        "Manchester United",
+        "AC Milan"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_hard_09",
+      "question": "Which club did Zinedine Zidane score a volley for in the 2002 final?",
+      "options": [
+        "Real Madrid",
+        "Juventus",
+        "Bordeaux",
+        "Inter Milan"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": "ucl_hard_10",
+      "question": "Which player scored a hat-trick in the 2014 quarter-final for Bayern Munich against Arsenal?",
+      "options": [
+        "Thomas Müller",
+        "Robert Lewandowski",
+        "Franck Ribéry",
+        "Mario Götze"
+      ],
+      "answer": "Thomas Müller"
+    },
+    {
+      "id": "ucl_hard_11",
+      "question": "Which club won the 1994 Champions League final?",
+      "options": [
+        "AC Milan",
+        "Barcelona",
+        "Ajax",
+        "Real Madrid"
+      ],
+      "answer": "AC Milan"
+    },
+    {
+      "id": "ucl_hard_12",
+      "question": "Who scored the decisive penalty for Manchester United in the 2008 final against Chelsea?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Wayne Rooney",
+        "Ryan Giggs",
+        "Paul Scholes"
+      ],
+      "answer": "John Terry actually missed, so the winner was via shootout — correct answer: Edwin van der Sar saved the final penalty"
+    },
+    {
+      "id": "ucl_hard_13",
+      "question": "Which club eliminated Barcelona in the 2019 Champions League semi-final with a comeback from 3-0 down?",
+      "options": [
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Ajax",
+        "Juventus"
+      ],
+      "answer": "Liverpool"
+    },
+    {
+      "id": "ucl_hard_14",
+      "question": "Which club did Arjen Robben score the winning goal for in the 2013 final?",
+      "options": [
+        "Bayern Munich",
+        "Chelsea",
+        "Real Madrid",
+        "Barcelona"
+      ],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": "ucl_hard_15",
+      "question": "Which club did Didier Deschamps win the Champions League with as captain?",
+      "options": [
+        "Marseille",
+        "Juventus",
+        "AC Milan",
+        "Chelsea"
+      ],
+      "answer": "Marseille"
+    }
+  ]
+}
