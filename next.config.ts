@@ -1,12 +1,10 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: "export",
-  skipTrailingSlashRedirect: true,
-  trailingSlash: false,
-  exportPathMap: async () => ({
-    "/": { page: "/" },
-    "/results": { page: "/results" },
-  }),
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  reactStrictMode: true,
+  experimental: {
+    typedRoutes: true,
+  },
 };
 
 export default nextConfig;
