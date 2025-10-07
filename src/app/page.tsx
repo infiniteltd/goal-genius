@@ -2,6 +2,20 @@
 
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
+import rawQuestions from "../data/questions.json";
+
+type Question = {
+  id: string;
+  question: string;
+  options: string[];
+  answer: string;
+};
+
+type AllQuestions = {
+  [key: string]: Question[];
+};
+
+const allQuestions = rawQuestions as AllQuestions;
 
 const categories = [
   { key: "premier_league", label: "Premier League" },
@@ -26,6 +40,18 @@ export default function HomePage() {
   const [difficulty, setDifficulty] = useState<string>("easy");
 
   function startQuiz() {
+    const key = `${category}_${difficulty}`;
+    const selectedQuestions: Question[] = allQuestions[key] ?? [];
+
+    if (!selectedQuestions.length) {
+      alert("No questions found for this category and difficulty!");
+      return;
+    }
+
+    // Save questions to sessionStorage
+    sessionStorage.setItem("questions", JSON.stringify(selectedQuestions));
+
+    // Navigate with query params
     const params = new URLSearchParams({ category, difficulty });
     router.push(`/quiz?${params.toString()}`);
   }

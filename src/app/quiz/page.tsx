@@ -1,158 +1,164 @@
 "use client";
 
-import React, { useEffect, useMemo, useState } from "react";
-import { useSearchParams, useRouter } from "next/navigation";
-import QuestionCard, { Question } from "../../Components/QuestionCard";
-import { shuffleArray } from "../../util/shuffle";
-import allQuestions from "../../data/questions.json";
+import React, { useEffect, useMemo, useState, Suspense } from "react";
+import { useSearchParams } from "next/navigation";
+import QuestionCard, { Question } from "@/Components/QuestionCard";
 
-export default function QuizPage() {
-  const search = useSearchParams();
-  const router = useRouter();
-  const category = search.get("category") || "premier_league";
-  const difficulty = search.get("difficulty") || "easy";
-  const key = `${category}_${difficulty}`;
+function QuizContent() {
+  const searchParams = useSearchParams();
 
-  const questionsRaw =
-    (allQuestions as Record<string, Question[]>)?.[key] || [];
+  const category = searchParams.get("category");
+  const difficulty = searchParams.get("difficulty");
 
-  const questions = useMemo<Question[]>(
-    () =>
-      shuffleArray(questionsRaw)
-        .slice(0, 15)
-        .map((q) => ({
-          ...q,
-          options: shuffleArray(q.options),
-        })),
-    [key]
-  );
+  // ✅ Load questions from sessionStorage (saved from HomePage)
+  const questions: Question[] = useMemo(() => {
+    if (typeof window === "undefined") return [];
+    try {
+      const stored = sessionStorage.getItem("questions");
+      return stored ? (JSON.parse(stored) as Question[]) : [];
+    } catch {
+      return [];
+    }
+  }, []);
 
-  const [index, setIndex] = useState(0);
+  const [current, setCurrent] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(20);
-  const [fade, setFade] = useState(false);
+  const [showAnswer, setShowAnswer] = useState(false);
+  const [shuffledMap, setShuffledMap] = useState<Record<number, string[]>>({});
 
-  useEffect(() => {
-    // reset timer and state when question changes
-    setTimeLeft(20);
-    setSelected(null);
-  }, [index]);
+  const currentQuestion = questions[current];
 
+  // ✅ Shuffle options only once per question
   useEffect(() => {
-    if (selected) return; // pause timer once user selects an answer
+    if (!currentQuestion) return;
+
+    setShuffledMap((prev) => {
+      if (prev[current]) return prev; // already shuffled
+      const shuffled = [...currentQuestion.options].sort(
+        () => Math.random() - 0.5
+      );
+      return { ...prev, [current]: shuffled };
+    });
+  }, [currentQuestion, current]);
+
+  const shuffledOptions =
+    shuffledMap[current] || currentQuestion?.options || [];
+
+  const handleSelect = (option: string) => {
+    if (selected || showAnswer) return;
+    setSelected(option);
+
+    if (option === currentQuestion.answer) {
+      setScore((s) => s + 1);
+    }
+
+    setShowAnswer(true); // stop timer + show feedback
+  };
+
+  // ✅ Timer logic (pauses when showAnswer is true)
+  useEffect(() => {
+    if (showAnswer) return; // pause timer when showing answer
 
     if (timeLeft <= 0) {
-      handleNext(); // move to next automatically
+      // if time runs out, reveal answer but don't add score
+      setShowAnswer(true);
+      setSelected(null);
       return;
     }
 
     const timer = setTimeout(() => setTimeLeft((t) => t - 1), 1000);
     return () => clearTimeout(timer);
-  }, [timeLeft, selected]);
+  }, [timeLeft, showAnswer]);
 
-  if (!questions || questions.length === 0) {
+  const handleNext = () => {
+    if (current < questions.length - 1) {
+      setCurrent((c) => c + 1);
+      setSelected(null);
+      setShowAnswer(false);
+      setTimeLeft(20);
+    } else {
+      window.location.href = `/results?score=${score}&total=${questions.length}`;
+    }
+  };
+
+  if (!currentQuestion) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-gray-50">
-        <p className="text-gray-700 text-lg">
-          No questions found for the selected category/difficulty.
-        </p>
+      <div className="min-h-screen flex items-center justify-center text-gray-600">
+        No questions available.
       </div>
     );
   }
 
-  const current = questions[index];
-
-  function handleSelect(option: string) {
-    if (selected) return;
-    setSelected(option);
-    if (option === current.answer) setScore((s) => s + 1);
-  }
-
-  function handleNext() {
-    setFade(true);
-    setTimeout(() => {
-      const nextIndex = index + 1;
-      if (nextIndex >= questions.length) {
-        const params = new URLSearchParams({
-          score: String(score),
-          total: String(questions.length),
-        });
-        router.push(`/results?${params.toString()}`);
-        return;
-      }
-      setIndex(nextIndex);
-      setFade(false);
-    }, 1000); // 1-second fade delay
-  }
-
-  const progressWidth = (timeLeft / 20) * 100;
-
   return (
-    <main className="min-h-screen bg-gradient-to-b from-blue-50 to-blue-100 p-6 transition-all duration-500">
-      <div
-        className={`max-w-2xl mx-auto transition-opacity duration-700 ${
-          fade ? "opacity-0" : "opacity-100"
-        }`}
-      >
-        <div className="flex items-center justify-between mb-4">
-          <div>
-            <h2 className="text-xl font-semibold text-gray-900">
-              Question {index + 1} / {questions.length}
-            </h2>
-            <p className="text-sm text-gray-600 capitalize">
-              {category.replace("_", " ")} — {difficulty}
-            </p>
-          </div>
-          <div className="text-right">
-            <p className="text-sm text-gray-600">Score</p>
-            <p className="text-lg font-bold text-blue-700">{score}</p>
-          </div>
-        </div>
-
-        {/* Timer */}
-        <div className="mb-4">
-          <div className="flex justify-between items-center mb-1">
-            <span className="text-sm font-medium text-gray-700">Time left</span>
-            <span
-              className={`text-sm font-semibold transition-all duration-300 ${
-                timeLeft <= 5 ? "text-red-600 animate-pulse" : "text-gray-800"
-              }`}
-            >
-              {timeLeft}s
-            </span>
-          </div>
-          <div className="w-full bg-gray-300 rounded-full h-2 overflow-hidden">
-            <div
-              className={`h-2 rounded-full transition-all duration-300 ${
-                timeLeft <= 5 ? "bg-red-600 animate-pulse" : "bg-blue-600"
-              }`}
-              style={{ width: `${progressWidth}%` }}
-            ></div>
-          </div>
-        </div>
-
-        <QuestionCard
-          q={current}
-          selected={selected}
-          onSelect={handleSelect}
-          disabled={!!selected}
-        />
-
-        <div className="flex justify-end mt-6">
-          <button
-            onClick={handleNext}
-            disabled={!selected}
-            className={`px-5 py-2 rounded-lg font-semibold shadow-md transition ${
-              selected
-                ? "bg-blue-600 text-white hover:bg-blue-700"
-                : "bg-gray-300 text-gray-500 cursor-not-allowed"
+    <main className="min-h-screen bg-gray-50 flex flex-col items-center justify-center p-6 transition-opacity duration-700">
+      <div className="w-full max-w-xl bg-white p-8 rounded-2xl shadow-md">
+        {/* ✅ Header */}
+        <div className="flex justify-between mb-4">
+          <p className="text-lg font-medium text-gray-700">
+            Question {current + 1} / {questions.length}
+          </p>
+          <p
+            className={`text-lg font-semibold ${
+              timeLeft <= 5 ? "text-red-600" : "text-blue-600"
             }`}
           >
-            {index + 1 >= questions.length ? "Finish" : "Next"}
-          </button>
+            ⏳ {timeLeft}s
+          </p>
         </div>
+
+        {/* ✅ Question Card */}
+        <QuestionCard
+          q={{ ...currentQuestion, options: shuffledOptions }}
+          selected={selected}
+          onSelect={handleSelect}
+          disabled={!!selected || showAnswer}
+        />
+
+        {/* ✅ Feedback */}
+        {showAnswer && (
+          <div className="mt-4 text-center">
+            {selected === currentQuestion.answer ? (
+              <p className="text-green-600 font-medium">✅ Correct!</p>
+            ) : selected ? (
+              <p className="text-red-600 font-medium">
+                ❌ Wrong! The correct answer was:{" "}
+                <span className="font-semibold text-green-700">
+                  {currentQuestion.answer}
+                </span>
+              </p>
+            ) : (
+              <p className="text-orange-600 font-medium">
+                ⏰ Time’s up! Correct answer:{" "}
+                <span className="font-semibold text-green-700">
+                  {currentQuestion.answer}
+                </span>
+              </p>
+            )}
+          </div>
+        )}
+
+        {/* ✅ Next Button */}
+        {showAnswer && (
+          <button
+            onClick={handleNext}
+            className="mt-6 w-full bg-blue-600 text-white py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+          >
+            {current === questions.length - 1
+              ? "Finish Quiz"
+              : "Next Question →"}
+          </button>
+        )}
       </div>
     </main>
+  );
+}
+
+export default function Page() {
+  return (
+    <Suspense fallback={<div className="text-center p-8">Loading quiz...</div>}>
+      <QuizContent />
+    </Suspense>
   );
 }
