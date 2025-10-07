@@ -7,24 +7,23 @@ type Props = {
   onClick: (option: string) => void;
   disabled?: boolean;
   isSelected?: boolean;
+  customColor?: string;
 };
 
 export default function OptionButton({
   option,
   onClick,
   disabled,
-  isSelected,
+  customColor = "bg-sky-100 text-gray-900 hover:bg-sky-200",
 }: Props) {
   return (
     <button
       onClick={() => onClick(option)}
       disabled={disabled}
-      className={`w-full text-left px-4 py-3 rounded-md border transition 
-        ${
-          isSelected
-            ? "bg-blue-600 text-white border-blue-700"
-            : "bg-white hover:bg-gray-50"
-        }`}
+      className={`w-full text-left px-5 py-3 rounded-xl font-semibold border border-gray-300 transition-all duration-200
+        ${customColor}
+        ${disabled ? "opacity-90 cursor-not-allowed" : "hover:scale-[1.02]"}
+      `}
     >
       {option}
     </button>
