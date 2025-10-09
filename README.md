@@ -39,3 +39,6 @@ JSON Data Storage
 📱 Optimize for progressive web app (PWA) usage.
 
 🌙 Implement a dark mode toggle for better user customization.
+![](public/goal-genius%20Home-page.png)
+![](public/goal-genius%20quiz-page.png)
+![](public/goal-genius%20result-page.png)
