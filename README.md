@@ -1,20 +1,22 @@
 # ⚽ Goal Genius – Football Quiz App
 
-Goal Genius is an interactive football quiz game built with Next.js, React, and Tailwind CSS. It challenges users with questions across multiple leagues and difficulty levels, featuring a clean UI, countdown timer, instant feedback, and a performance summary at the end.
+Goal Genius is an interactive football quiz game built with Next.js, React, and Tailwind CSS. It challenges users with questions across multiple leagues and difficulty levels, offering a clean design, timed gameplay, and instant performance feedback.
 
 🚀 Features
 
-🏆 Multiple Categories & Difficulty Levels – Choose from leagues like Premier League, La Liga, Serie A, and more.
+🏆 Multiple Categories & Difficulty Levels – Test your knowledge across leagues like Premier League, La Liga, Serie A, and more.
 
-⏳ Countdown Timer – Adds tension with a 20-second timer per question.
+⏳ Countdown Timer – Keeps the excitement high with a 20-second timer per question.
 
-💡 Instant Feedback – Displays correct answers for wrong or missed questions.
+💡 Instant Feedback – See correct answers immediately for missed or incorrect responses.
 
-🔁 Retry & Replay – Retry quizzes or return to the home screen easily.
+🔁 Replay Option – Retry quizzes or switch categories seamlessly.
 
-🎨 Modern UI – Built with Tailwind CSS for smooth transitions and responsive design.
+🎨 Modern, Responsive UI – Built with Tailwind CSS for a smooth and accessible experience.
 
-💾 Session Management – Uses session storage to retain question data between pages.
+💾 Session-Based Progress – Stores question data using session storage for consistency between pages.
+
+📊 Performance Summary – Displays a clean end-screen summary of your score and accuracy.
 
 🛠️ Tech Stack
 
@@ -22,8 +24,18 @@ Next.js (App Router)
 
 React (Client Components)
 
-Tailwind CSS (Styling)
+Tailwind CSS
 
 TypeScript
 
-JSON Data Handling
+JSON Data Storage
+
+🧭 Future Improvements
+
+🥇 Add a leaderboard system for global and local scores.
+
+🔊 Introduce sound effects and light animations for correct/incorrect answers.
+
+📱 Optimize for progressive web app (PWA) usage.
+
+🌙 Implement a dark mode toggle for better user customization.
